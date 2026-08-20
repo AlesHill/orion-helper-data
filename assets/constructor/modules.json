@@ -1,0 +1,314 @@
+{
+  "EW": {
+    "name": "РЭБ",
+    "stackable": false,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 9,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 13,
+        "ship_mod": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 15,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Подовитель»",
+        "reactorPercent": 20,
+        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "MF": {
+    "name": "Маскировочное Поле\\Покрытие",
+    "stackable": false,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 35,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 40,
+        "ship_mod": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 45,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Хамелеон»",
+        "reactorPercent": 50,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "WW": {
+    "name": "Варп-колодец",
+    "stackable": true,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 11,
+        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 15,
+        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 19,
+        "ship_mod": ["CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Контролёр»",
+        "reactorPercent": 23,
+        "ship_mod": ["BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "MCD": {
+    "name": "Мультиконтролёр Дронов",
+    "stackable": false,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 6,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 8,
+        "ship_mod": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 11,
+        "ship_mod": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Рой»",
+        "reactorPercent": 14,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "SGA": {
+    "name": "Усилитель генератора щитов",
+    "stackable": false,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 9,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 11,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 15,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Барьер»",
+        "reactorPercent": 18,
+        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "SA": {
+    "name": "Щитонакопитель",
+    "stackable": false,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 8,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 10,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 12,
+        "ship_mod": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Спаситель»",
+        "reactorPercent": 14,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "GR": {
+    "name": "Грави-Луч",
+    "stackable": true,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 1,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 2,
+        "ship_mod": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 2,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Пограничник»",
+        "reactorPercent": 3,
+        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "SRS": {
+    "name": "Сенсоры Ближнего действия",
+    "stackable": false,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 0,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 2,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 3,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Микроскоп»",
+        "reactorPercent": 5,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "LRS": {
+    "name": "Сенсоры Дальнего действия",
+    "stackable": false,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 0,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 2,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 3,
+        "ship_mod": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Телескоп»",
+        "reactorPercent": 5,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "CA": {
+    "name": "Антены связи",
+    "stackable": false,
+    "levels": {
+      "STD": {
+        "name": "Стандартный",
+        "reactorPercent": 0,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "ADV": {
+        "name": "Продвинутый",
+        "reactorPercent": 1,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SPEC": {
+        "name": "Специализированный",
+        "reactorPercent": 2,
+        "ship_mod": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "SUP": {
+        "name": "Система «Глашатый»",
+        "reactorPercent": 3,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "HANGAR-A": {
+    "name": "Ангары",
+    "stackable": true,
+    "levels": {
+      "S": {
+        "name": "Малый",
+        "reactorPercent": 3,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "M": {
+        "name": "Средний",
+        "reactorPercent": 7,
+        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "L": {
+        "name": "Расширенный",
+        "reactorPercent": 10,
+        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "CARRIER": {
+        "name": "«Авианосец»",
+        "reactorPercent": 14,
+        "ship_mod": ["CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "HANGAR-D": {
+    "name": "Десантные доки",
+    "stackable": true,
+    "levels": {
+      "S": {
+        "name": "Малый",
+        "reactorPercent": 3,
+        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "M": {
+        "name": "Средний",
+        "reactorPercent": 6,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "L": {
+        "name": "Расширенный",
+        "reactorPercent": 9,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "CARRIER": {
+        "name": "«Десантный»",
+        "reactorPercent": 13,
+        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  }
+}

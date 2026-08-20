@@ -1,0 +1,7332 @@
+{
+    "(5002, 6915)": {
+        "title": "Земля",
+        "owner": "Орион",
+        "marker_type": "Первичная",
+        "is_capital": true,
+        "x": 5002,
+        "y": 6915,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5485, 7131)": {
+        "title": "Картана",
+        "owner": "Орион",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5485,
+        "y": 7131,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5429, 7281)": {
+        "title": "Селторис",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5429,
+        "y": 7281,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5678, 7087)": {
+        "title": "Фаренгия",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5678,
+        "y": 7087,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5399, 6916)": {
+        "title": "Омникрон",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5399,
+        "y": 6916,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5894, 7236)": {
+        "title": "Фаван-Прайм",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5894,
+        "y": 7236,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6125, 7170)": {
+        "title": "Зенария",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6125,
+        "y": 7170,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6349, 7287)": {
+        "title": "Карн",
+        "owner": "Орион",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6349,
+        "y": 7287,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5960, 7016)": {
+        "title": "Термион",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5960,
+        "y": 7016,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5218, 7183)": {
+        "title": "Кимаран",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5218,
+        "y": 7183,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5235, 6953)": {
+        "title": "Ортес",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5235,
+        "y": 6953,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5107, 6826)": {
+        "title": "Альксиан",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5107,
+        "y": 6826,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4701, 6758)": {
+        "title": "Хартелис",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4701,
+        "y": 6758,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4868, 6908)": {
+        "title": "Малевилон",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4868,
+        "y": 6908,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4559, 6931)": {
+        "title": "Эрдалия",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4559,
+        "y": 6931,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4311, 6623)": {
+        "title": "Волия",
+        "owner": "Орион",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4311,
+        "y": 6623,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4340, 6830)": {
+        "title": "Карианор",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4340,
+        "y": 6830,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4415, 6622)": {
+        "title": "Лантир",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4415,
+        "y": 6622,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4045, 6393)": {
+        "title": "Сатиан",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4045,
+        "y": 6393,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4135, 6628)": {
+        "title": "Селидар",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4135,
+        "y": 6628,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4254, 6474)": {
+        "title": "Тиралин",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4254,
+        "y": 6474,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5128, 7311)": {
+        "title": "Юлориан",
+        "owner": "Орион",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5128,
+        "y": 7311,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4778, 6587)": {
+        "title": "Аркадия-Прайм",
+        "owner": "Соц.Интерн",
+        "marker_type": "Первичная",
+        "is_capital": true,
+        "x": 4778,
+        "y": 6587,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5011, 6581)": {
+        "title": "Ново-Эйдем",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5011,
+        "y": 6581,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5078, 6695)": {
+        "title": "Атлантис",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5078,
+        "y": 6695,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5283, 6631)": {
+        "title": "Ленир",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5283,
+        "y": 6631,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4629, 6417)": {
+        "title": "Шилария",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4629,
+        "y": 6417,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4619, 6565)": {
+        "title": "Стелларион",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4619,
+        "y": 6565,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4852, 6478)": {
+        "title": "Полярис",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4852,
+        "y": 6478,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4400, 6376)": {
+        "title": "Верна",
+        "owner": "Соц.Интерн",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4400,
+        "y": 6376,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4500, 6361)": {
+        "title": "Асуна",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4500,
+        "y": 6361,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4470, 6498)": {
+        "title": "Амерун",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4470,
+        "y": 6498,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4246, 6357)": {
+        "title": "Кондор",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4246,
+        "y": 6357,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4148, 6296)": {
+        "title": "Сония",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4148,
+        "y": 6296,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4099, 6109)": {
+        "title": "Дориан",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4099,
+        "y": 6109,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3894, 6165)": {
+        "title": "Лагос",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3894,
+        "y": 6165,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3947, 5939)": {
+        "title": "Кассиум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3947,
+        "y": 5939,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3766, 5719)": {
+        "title": "Рошан",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3766,
+        "y": 5719,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3747, 5917)": {
+        "title": "Прогрессус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3747,
+        "y": 5917,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3882, 5670)": {
+        "title": "Фронтариус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3882,
+        "y": 5670,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3691, 5569)": {
+        "title": "Виридиус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3691,
+        "y": 5569,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3853, 5432)": {
+        "title": "Сенкариум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3853,
+        "y": 5432,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3632, 5380)": {
+        "title": "Автегар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3632,
+        "y": 5380,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3790, 4943)": {
+        "title": "Ордал",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3790,
+        "y": 4943,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4167, 4366)": {
+        "title": "Орен",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4167,
+        "y": 4366,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4877, 4109)": {
+        "title": "Салита",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4877,
+        "y": 4109,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5039, 4957)": {
+        "title": "Саггитариус А*",
+        "owner": "Орион",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5039,
+        "y": 4957,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4974, 5093)": {
+        "title": "Гундра",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4974,
+        "y": 5093,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5096, 4825)": {
+        "title": "Тирантис",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5096,
+        "y": 4825,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5091, 4883)": {
+        "title": "Храммир",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5091,
+        "y": 4883,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5071, 4934)": {
+        "title": "Стелларисса",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5071,
+        "y": 4934,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4999, 4994)": {
+        "title": "Кроссалия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4999,
+        "y": 4994,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4968, 5041)": {
+        "title": "Фирновия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4968,
+        "y": 5041,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5385, 4888)": {
+        "title": "Морис",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5385,
+        "y": 4888,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5313, 4970)": {
+        "title": "Хорделл",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5313,
+        "y": 4970,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5239, 5022)": {
+        "title": "Киливория",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5239,
+        "y": 5022,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5104, 5088)": {
+        "title": "Мертар",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5104,
+        "y": 5088,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5438, 4778)": {
+        "title": "Тарвеллон",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5438,
+        "y": 4778,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5446, 4680)": {
+        "title": "Гельватор",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5446,
+        "y": 4680,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5417, 4547)": {
+        "title": "Хелианос",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5417,
+        "y": 4547,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4665, 5032)": {
+        "title": "Касселия",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4665,
+        "y": 5032,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4961, 4839)": {
+        "title": "Фольмерия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4961,
+        "y": 4839,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4848, 4894)": {
+        "title": "Каллион",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4848,
+        "y": 4894,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4760, 4958)": {
+        "title": "Фриллум",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4760,
+        "y": 4958,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4597, 5117)": {
+        "title": "Реттайл",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4597,
+        "y": 5117,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4559, 5209)": {
+        "title": "Дорнесс",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4559,
+        "y": 5209,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4535, 5338)": {
+        "title": "Филоракс",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4535,
+        "y": 5338,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4137, 5152)": {
+        "title": "Ливион",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4137,
+        "y": 5152,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4355, 4707)": {
+        "title": "Усава",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4355,
+        "y": 4707,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4791, 4390)": {
+        "title": "Ирим",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4791,
+        "y": 4390,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5313, 4249)": {
+        "title": "Зельта",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5313,
+        "y": 4249,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5846, 4676)": {
+        "title": "Муро",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5846,
+        "y": 4676,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5641, 5187)": {
+        "title": "Мабрис",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5641,
+        "y": 5187,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5064, 5594)": {
+        "title": "Рксар",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5064,
+        "y": 5594,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4546, 5662)": {
+        "title": "Килар",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4546,
+        "y": 5662,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4888, 6422)": {
+        "title": "Фриган",
+        "owner": "Соц.Интерн",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4888,
+        "y": 6422,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4862, 6435)": {
+        "title": "Ларган",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4862,
+        "y": 6435,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4916, 6415)": {
+        "title": "Мантара",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4916,
+        "y": 6415,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4194, 5737)": {
+        "title": "Тартуга",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4194,
+        "y": 5737,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4618, 6109)": {
+        "title": "Сарсан",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4618,
+        "y": 6109,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5381, 6261)": {
+        "title": "Жалорус",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5381,
+        "y": 6261,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6609, 5585)": {
+        "title": "Кернор",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6609,
+        "y": 5585,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6969, 4738)": {
+        "title": "Калисару",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6969,
+        "y": 4738,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6849, 3838)": {
+        "title": "Ревар",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6849,
+        "y": 3838,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6471, 3105)": {
+        "title": "Партия",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6471,
+        "y": 3105,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6963, 2348)": {
+        "title": "Гинтета",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6963,
+        "y": 2348,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7556, 3429)": {
+        "title": "Глинор",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7556,
+        "y": 3429,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7696, 4277)": {
+        "title": "Лоркан",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7696,
+        "y": 4277,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7547, 5249)": {
+        "title": "Инвар",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7547,
+        "y": 5249,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7120, 6096)": {
+        "title": "Арлиан",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7120,
+        "y": 6096,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5990, 6659)": {
+        "title": "Хайтенис",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5990,
+        "y": 6659,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5772, 4222)": {
+        "title": "Сола",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5772,
+        "y": 4222,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5310, 3857)": {
+        "title": "Лиад",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5310,
+        "y": 3857,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4675, 3692)": {
+        "title": "Белтрина",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4675,
+        "y": 3692,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4011, 3889)": {
+        "title": "Гладиус",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4011,
+        "y": 3889,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3488, 4397)": {
+        "title": "Гениус",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3488,
+        "y": 4397,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3140, 5188)": {
+        "title": "Перинус",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3140,
+        "y": 5188,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3212, 6004)": {
+        "title": "Нирталоон",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3212,
+        "y": 6004,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3673, 6741)": {
+        "title": "Дорта",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3673,
+        "y": 6741,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4303, 7265)": {
+        "title": "Ларнор",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4303,
+        "y": 7265,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5042, 7584)": {
+        "title": "Зивор",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5042,
+        "y": 7584,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6019, 7642)": {
+        "title": "Уфана",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6019,
+        "y": 7642,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7099, 7335)": {
+        "title": "Уксия",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7099,
+        "y": 7335,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2566, 5064)": {
+        "title": "Тетио",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2566,
+        "y": 5064,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1816, 5241)": {
+        "title": "Альтариум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1816,
+        "y": 5241,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2124, 4650)": {
+        "title": "Ирендан",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2124,
+        "y": 4650,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2490, 4207)": {
+        "title": "Редон",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2490,
+        "y": 4207,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2973, 4097)": {
+        "title": "Платан",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2973,
+        "y": 4097,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3497, 3597)": {
+        "title": "Нейда",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3497,
+        "y": 3597,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4265, 3270)": {
+        "title": "Талус",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4265,
+        "y": 3270,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5013, 3278)": {
+        "title": "Ураниаус",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5013,
+        "y": 3278,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5705, 3527)": {
+        "title": "Ринос",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5705,
+        "y": 3527,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6167, 4024)": {
+        "title": "Вомрис",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6167,
+        "y": 4024,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5491, 5727)": {
+        "title": "Русармус",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5491,
+        "y": 5727,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4997, 5853)": {
+        "title": "Гардея",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4997,
+        "y": 5853,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3761, 2251)": {
+        "title": "Нембриакс",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": true,
+        "x": 3761,
+        "y": 2251,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4673, 2058)": {
+        "title": "Цитаделион",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4673,
+        "y": 2058,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4329, 2076)": {
+        "title": "Морагус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4329,
+        "y": 2076,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4449, 2291)": {
+        "title": "Октавия",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4449,
+        "y": 2291,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4697, 2396)": {
+        "title": "Халмдон",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4697,
+        "y": 2396,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5069, 2088)": {
+        "title": "Миксто-12",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5069,
+        "y": 2088,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5449, 2162)": {
+        "title": "Регадус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5449,
+        "y": 2162,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5087, 2337)": {
+        "title": "Транквиллас",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5087,
+        "y": 2337,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5515, 2635)": {
+        "title": "Адариус",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5515,
+        "y": 2635,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5289, 2452)": {
+        "title": "Эволюва",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5289,
+        "y": 2452,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5793, 2667)": {
+        "title": "Элисия",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5793,
+        "y": 2667,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5751, 2309)": {
+        "title": "Миксто-9",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5751,
+        "y": 2309,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6071, 2856)": {
+        "title": "Арканиум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6071,
+        "y": 2856,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6243, 2682)": {
+        "title": "Патфалис",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6243,
+        "y": 2682,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6038, 2532)": {
+        "title": "Кардон",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6038,
+        "y": 2532,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6126, 2941)": {
+        "title": "Магнификус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6126,
+        "y": 2941,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6403, 2781)": {
+        "title": "Сенсориус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6403,
+        "y": 2781,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6095, 1651)": {
+        "title": "Миксто-13",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6095,
+        "y": 1651,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6253, 1883)": {
+        "title": "Пририй",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6253,
+        "y": 1883,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6336, 1529)": {
+        "title": "Релина",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6336,
+        "y": 1529,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5854, 1385)": {
+        "title": "Патриан",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5854,
+        "y": 1385,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5789, 1663)": {
+        "title": "Септулис",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5789,
+        "y": 1663,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5509, 1413)": {
+        "title": "Варпром",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5509,
+        "y": 1413,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5381, 1113)": {
+        "title": "Титаниум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5381,
+        "y": 1113,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5326, 1541)": {
+        "title": "Нексум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5326,
+        "y": 1541,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4824, 1243)": {
+        "title": "Гексарий",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4824,
+        "y": 1243,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5144, 1075)": {
+        "title": "Галактиус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5144,
+        "y": 1075,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5052, 1416)": {
+        "title": "Аттестор",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5052,
+        "y": 1416,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4341, 1372)": {
+        "title": "Миверион",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4341,
+        "y": 1372,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4649, 1148)": {
+        "title": "Эфемериус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4649,
+        "y": 1148,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4323, 1059)": {
+        "title": "Ординус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4323,
+        "y": 1059,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3683, 1308)": {
+        "title": "Инфинориум",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3683,
+        "y": 1308,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3992, 1077)": {
+        "title": "Лунатар",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3992,
+        "y": 1077,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4013, 1359)": {
+        "title": "Сигмалор",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4013,
+        "y": 1359,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2898, 1456)": {
+        "title": "Акариум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2898,
+        "y": 1456,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3298, 1290)": {
+        "title": "Легионар",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3298,
+        "y": 1290,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3419, 1478)": {
+        "title": "Фракталис",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3419,
+        "y": 1478,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3723, 1468)": {
+        "title": "Сайгас",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3723,
+        "y": 1468,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2278, 2003)": {
+        "title": "Доминус-Прайм",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2278,
+        "y": 2003,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2423, 1908)": {
+        "title": "Триумвириат",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2423,
+        "y": 1908,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2585, 1789)": {
+        "title": "Хелисус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2585,
+        "y": 1789,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3185, 1556)": {
+        "title": "Люмис",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3185,
+        "y": 1556,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2747, 1708)": {
+        "title": "Викториум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2747,
+        "y": 1708,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2963, 1664)": {
+        "title": "Преториум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2963,
+        "y": 1664,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3992, 2110)": {
+        "title": "Зенития",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3992,
+        "y": 2110,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4189, 1884)": {
+        "title": "Престол",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4189,
+        "y": 1884,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5629, 1934)": {
+        "title": "Асталис",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5629,
+        "y": 1934,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4953, 1744)": {
+        "title": "Централис",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4953,
+        "y": 1744,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4137, 1652)": {
+        "title": "Задан",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4137,
+        "y": 1652,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4147, 1828)": {
+        "title": "_13",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4147,
+        "y": 1828,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4127, 1528)": {
+        "title": "_14",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4127,
+        "y": 1528,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5006, 1612)": {
+        "title": "_11",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 5006,
+        "y": 1612,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4926, 1910)": {
+        "title": "_12",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4926,
+        "y": 1910,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5723, 1828)": {
+        "title": "_9",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 5723,
+        "y": 1828,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5533, 2090)": {
+        "title": "_10",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 5533,
+        "y": 2090,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2677, 3169)": {
+        "title": "Питиус",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2677,
+        "y": 3169,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2744, 3212)": {
+        "title": "_16",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 2744,
+        "y": 3212,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2638, 3136)": {
+        "title": "_15",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 2638,
+        "y": 3136,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4257, 2711)": {
+        "title": "Долис",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4257,
+        "y": 2711,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4209, 2863)": {
+        "title": "_18",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4209,
+        "y": 2863,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4295, 2588)": {
+        "title": "_17",
+        "owner": "Империя",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4295,
+        "y": 2588,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4169, 2486)": {
+        "title": "Саргас",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4169,
+        "y": 2486,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3393, 2552)": {
+        "title": "Астрагор",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3393,
+        "y": 2552,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3373, 2185)": {
+        "title": "Мезонит",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3373,
+        "y": 2185,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2905, 2310)": {
+        "title": "Эолотар",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2905,
+        "y": 2310,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2378, 2889)": {
+        "title": "Кориниум",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2378,
+        "y": 2889,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2508, 2563)": {
+        "title": "Экопанэий",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2508,
+        "y": 2563,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2889, 2781)": {
+        "title": "Лунарий",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2889,
+        "y": 2781,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2554, 3045)": {
+        "title": "Кронтус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2554,
+        "y": 3045,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2111, 3474)": {
+        "title": "Тетра-Прайм",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2111,
+        "y": 3474,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2191, 3078)": {
+        "title": "Темплус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2191,
+        "y": 3078,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1860, 3206)": {
+        "title": "Септима",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1860,
+        "y": 3206,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1699, 3481)": {
+        "title": "Титанос",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1699,
+        "y": 3481,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1936, 3699)": {
+        "title": "Августинус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1936,
+        "y": 3699,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1694, 3884)": {
+        "title": "Беллорас",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 1694,
+        "y": 3884,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1635, 4448)": {
+        "title": "Триусвират",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1635,
+        "y": 4448,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1438, 4274)": {
+        "title": "Орденар",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1438,
+        "y": 4274,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1726, 4120)": {
+        "title": "Даконт",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1726,
+        "y": 4120,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1800, 7794)": {
+        "title": "Титариум",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 1800,
+        "y": 7794,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1744, 7651)": {
+        "title": "Либератум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1744,
+        "y": 7651,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1614, 6788)": {
+        "title": "Валонариус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1614,
+        "y": 6788,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1675, 7048)": {
+        "title": "Гидриус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1675,
+        "y": 7048,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1478, 7141)": {
+        "title": "Микстас",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1478,
+        "y": 7141,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1653, 7274)": {
+        "title": "Сенсота",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1653,
+        "y": 7274,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1709, 7465)": {
+        "title": "Латериан",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1709,
+        "y": 7465,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1392, 6281)": {
+        "title": "Бастион-IV",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 1392,
+        "y": 6281,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1540, 6500)": {
+        "title": "Хауриус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1540,
+        "y": 6500,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1439, 6907)": {
+        "title": "Корнис",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1439,
+        "y": 6907,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1360, 6550)": {
+        "title": "Форнтирум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1360,
+        "y": 6550,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1386, 6053)": {
+        "title": "Каладанос",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1386,
+        "y": 6053,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1232, 5848)": {
+        "title": "Террикон",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1232,
+        "y": 5848,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1490, 5659)": {
+        "title": "Олимпер",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1490,
+        "y": 5659,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1356, 4993)": {
+        "title": "Каменор-II",
+        "owner": "Империя",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 1356,
+        "y": 4993,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1211, 5567)": {
+        "title": "Танатос",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1211,
+        "y": 5567,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1506, 5385)": {
+        "title": "Эфория",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1506,
+        "y": 5385,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1227, 5169)": {
+        "title": "Фосфорис",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1227,
+        "y": 5169,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1306, 4530)": {
+        "title": "Иридум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1306,
+        "y": 4530,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1597, 4902)": {
+        "title": "Орвиус",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1597,
+        "y": 4902,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1393, 4711)": {
+        "title": "Солемниум",
+        "owner": "Империя",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1393,
+        "y": 4711,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8148, 4822)": {
+        "title": "Аксагон",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Первичная",
+        "is_capital": true,
+        "x": 8148,
+        "y": 4822,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7803, 5142)": {
+        "title": "Глартин",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7803,
+        "y": 5142,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7844, 5110)": {
+        "title": "Банара-Прайм",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7844,
+        "y": 5110,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7880, 5098)": {
+        "title": "Тинарии",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7880,
+        "y": 5098,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7960, 5066)": {
+        "title": "Ваариж",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7960,
+        "y": 5066,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8081, 4914)": {
+        "title": "Заджон",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8081,
+        "y": 4914,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8139, 4520)": {
+        "title": "Ир-Кар",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8139,
+        "y": 4520,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8325, 4290)": {
+        "title": "Масафир",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8325,
+        "y": 4290,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8242, 4571)": {
+        "title": "Ратапан",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8242,
+        "y": 4571,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8068, 4673)": {
+        "title": "Гэрс",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8068,
+        "y": 4673,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8530, 4346)": {
+        "title": "Кейторнапи",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 8530,
+        "y": 4346,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8276, 4740)": {
+        "title": "Хож",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8276,
+        "y": 4740,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8378, 4594)": {
+        "title": "Хорт",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8378,
+        "y": 4594,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8435, 4445)": {
+        "title": "Эринаду",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8435,
+        "y": 4445,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8635, 4052)": {
+        "title": "Эларе-Прайм",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 8635,
+        "y": 4052,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8712, 3990)": {
+        "title": "Тэларан",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8712,
+        "y": 3990,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8432, 4227)": {
+        "title": "Ку'сэун",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8432,
+        "y": 4227,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8566, 4199)": {
+        "title": "Фридоржи",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8566,
+        "y": 4199,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8566, 3999)": {
+        "title": "Елинар",
+        "owner": "Содружество Звёзд",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8566,
+        "y": 3999,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8006, 3138)": {
+        "title": "Тадора",
+        "owner": "Тадора",
+        "marker_type": "Первичная",
+        "is_capital": true,
+        "x": 8006,
+        "y": 3138,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7889, 2439)": {
+        "title": "Стилморн",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7889,
+        "y": 2439,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7624, 2064)": {
+        "title": "Омланн",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7624,
+        "y": 2064,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8700, 2258)": {
+        "title": "Лораннель",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 8700,
+        "y": 2258,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7698, 2167)": {
+        "title": "Халлотар",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7698,
+        "y": 2167,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7778, 2276)": {
+        "title": "Валксия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7778,
+        "y": 2276,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8053, 2834)": {
+        "title": "Умдреллон",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8053,
+        "y": 2834,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7996, 2670)": {
+        "title": "Дорналия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7996,
+        "y": 2670,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7953, 2540)": {
+        "title": "Лумноса",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7953,
+        "y": 2540,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7843, 3455)": {
+        "title": "Новала",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7843,
+        "y": 3455,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7819, 3476)": {
+        "title": "_7",
+        "owner": "Отсутствует",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 7819,
+        "y": 3476,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7865, 3435)": {
+        "title": "_8",
+        "owner": "Отсутствует",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 7865,
+        "y": 3435,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6331, 7266)": {
+        "title": "_2",
+        "owner": "Орион",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 6331,
+        "y": 7266,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6364, 7316)": {
+        "title": "_1",
+        "owner": "Орион",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 6364,
+        "y": 7316,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5158, 7343)": {
+        "title": "_3",
+        "owner": "Орион",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 5158,
+        "y": 7343,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5097, 7283)": {
+        "title": "_4",
+        "owner": "Орион",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 5097,
+        "y": 7283,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5130, 4128)": {
+        "title": "Нолия",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 5130,
+        "y": 4128,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5210, 4191)": {
+        "title": "Мирион",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5210,
+        "y": 4191,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5248, 4026)": {
+        "title": "Молхар",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5248,
+        "y": 4026,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5172, 4070)": {
+        "title": "_19",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 5172,
+        "y": 4070,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4649, 5745)": {
+        "title": "Солидариус",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4649,
+        "y": 5745,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4700, 5791)": {
+        "title": "Терон",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4700,
+        "y": 5791,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4608, 5701)": {
+        "title": "Нерион",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4608,
+        "y": 5701,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4013, 7564)": {
+        "title": "Тариан",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4013,
+        "y": 7564,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4057, 7466)": {
+        "title": "Тита",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4057,
+        "y": 7466,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4034, 7716)": {
+        "title": "Бимари",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4034,
+        "y": 7716,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3860, 7608)": {
+        "title": "Лорам",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 3860,
+        "y": 7608,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6968, 7781)": {
+        "title": "Албар",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6968,
+        "y": 7781,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7049, 7910)": {
+        "title": "Гим",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 7049,
+        "y": 7910,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6893, 7647)": {
+        "title": "Алон",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 6893,
+        "y": 7647,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2579, 6121)": {
+        "title": "Саллитос",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2579,
+        "y": 6121,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2937, 6955)": {
+        "title": "Варионес",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2937,
+        "y": 6955,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3563, 7773)": {
+        "title": "Тринад",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3563,
+        "y": 7773,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4476, 8216)": {
+        "title": "Ловендр",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4476,
+        "y": 8216,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5428, 8411)": {
+        "title": "Деррис",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 5428,
+        "y": 8411,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6655, 8336)": {
+        "title": "Омниялл",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6655,
+        "y": 8336,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7857, 7815)": {
+        "title": "Фирнеллия",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7857,
+        "y": 7815,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8763, 7042)": {
+        "title": "Гролиннар",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 8763,
+        "y": 7042,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9375, 5835)": {
+        "title": "Рейлосса",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 9375,
+        "y": 5835,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9481, 4580)": {
+        "title": "Зонтар",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 9481,
+        "y": 4580,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8616, 2924)": {
+        "title": "Эвнора",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 8616,
+        "y": 2924,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8829, 4640)": {
+        "title": "Фельдрит",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 8829,
+        "y": 4640,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8509, 5781)": {
+        "title": "Лиамрал",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 8509,
+        "y": 5781,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7939, 6583)": {
+        "title": "Хотарн",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7939,
+        "y": 6583,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6025, 5294)": {
+        "title": "Ванштат",
+        "owner": "ССМП",
+        "marker_type": "Первичная",
+        "is_capital": true,
+        "x": 6025,
+        "y": 5294,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6022, 5136)": {
+        "title": "Орбит",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6022,
+        "y": 5136,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5684, 5511)": {
+        "title": "Кона",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5684,
+        "y": 5511,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5907, 5539)": {
+        "title": "Ристос",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5907,
+        "y": 5539,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6162, 5318)": {
+        "title": "Кирос",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6162,
+        "y": 5318,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5943, 5374)": {
+        "title": "Линдус",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5943,
+        "y": 5374,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5776, 5414)": {
+        "title": "Зилос",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5776,
+        "y": 5414,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6261, 4817)": {
+        "title": "Нанос",
+        "owner": "ССМП",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6261,
+        "y": 4817,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6174, 4492)": {
+        "title": "Кладус",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6174,
+        "y": 4492,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6536, 4648)": {
+        "title": "Цнтариан",
+        "owner": "ССМП",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6536,
+        "y": 4648,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6673, 4625)": {
+        "title": "_20",
+        "owner": "ССМП",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 6673,
+        "y": 4625,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6459, 4563)": {
+        "title": "Рисал",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6459,
+        "y": 4563,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6289, 4647)": {
+        "title": "Зильс",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6289,
+        "y": 4647,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6239, 5208)": {
+        "title": "Рефорс",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6239,
+        "y": 5208,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6100, 4956)": {
+        "title": "Норис",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6100,
+        "y": 4956,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6329, 4993)": {
+        "title": "Илья",
+        "owner": "ССМП",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6329,
+        "y": 4993,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2175, 7216)": {
+        "title": "Юрванна",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2175,
+        "y": 7216,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2055, 6025)": {
+        "title": "Элвирад",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2055,
+        "y": 6025,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2246, 5295)": {
+        "title": "Федерон",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2246,
+        "y": 5295,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4398, 5009)": {
+        "title": "Элиссаар",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4398,
+        "y": 5009,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4459, 4909)": {
+        "title": "Наквелл",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4459,
+        "y": 4909,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4531, 4812)": {
+        "title": "Мерриксор",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4531,
+        "y": 4812,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4624, 4718)": {
+        "title": "Аурнан",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4624,
+        "y": 4718,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4732, 4630)": {
+        "title": "Иларос",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4732,
+        "y": 4630,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4822, 4558)": {
+        "title": "Виролон",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4822,
+        "y": 4558,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4951, 4472)": {
+        "title": "Димрар",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4951,
+        "y": 4472,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5087, 4432)": {
+        "title": "Орвиллон",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5087,
+        "y": 4432,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4628, 4482)": {
+        "title": "Вектор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4628,
+        "y": 4482,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4949, 4328)": {
+        "title": "Метеорис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4949,
+        "y": 4328,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5155, 4274)": {
+        "title": "Праксидиум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5155,
+        "y": 4274,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5455, 4240)": {
+        "title": "Праймус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5455,
+        "y": 4240,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5220, 4388)": {
+        "title": "Идрисса",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5220,
+        "y": 4388,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5350, 4370)": {
+        "title": "Синкория",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5350,
+        "y": 4370,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5472, 4393)": {
+        "title": "Ленварра",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5472,
+        "y": 4393,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5552, 4532)": {
+        "title": "Жирвонд",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5552,
+        "y": 4532,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5658, 4339)": {
+        "title": "Транскор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5658,
+        "y": 4339,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5801, 4496)": {
+        "title": "Аворас",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5801,
+        "y": 4496,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5820, 4803)": {
+        "title": "Эквилиум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5820,
+        "y": 4803,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5642, 4532)": {
+        "title": "Сиквира",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5642,
+        "y": 4532,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5636, 4685)": {
+        "title": "Маворния",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5636,
+        "y": 4685,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5599, 4843)": {
+        "title": "Феросса",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5599,
+        "y": 4843,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5529, 5318)": {
+        "title": "Алкориус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5529,
+        "y": 5318,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5748, 5011)": {
+        "title": "Аксимус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5748,
+        "y": 5011,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5549, 4979)": {
+        "title": "Энлист",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5549,
+        "y": 4979,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5494, 5065)": {
+        "title": "Омкралия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5494,
+        "y": 5065,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5416, 5161)": {
+        "title": "Зунвелл",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5416,
+        "y": 5161,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5304, 5258)": {
+        "title": "Эвритал",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5304,
+        "y": 5258,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5333, 5432)": {
+        "title": "Этерфирум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5333,
+        "y": 5432,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5209, 5527)": {
+        "title": "Ораториус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5209,
+        "y": 5527,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4847, 5642)": {
+        "title": "Альгариус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4847,
+        "y": 5642,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5171, 5351)": {
+        "title": "Тарвиум",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5171,
+        "y": 5351,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5025, 5432)": {
+        "title": "Кварнус",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5025,
+        "y": 5432,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4849, 5485)": {
+        "title": "Тавиллор",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4849,
+        "y": 5485,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4676, 5657)": {
+        "title": "Дарксан",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4676,
+        "y": 5657,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4383, 5654)": {
+        "title": "Редарий",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4383,
+        "y": 5654,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4645, 5512)": {
+        "title": "Орсил",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4645,
+        "y": 5512,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4519, 5491)": {
+        "title": "Фелария",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4519,
+        "y": 5491,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4412, 5522)": {
+        "title": "Истреллит",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4412,
+        "y": 5522,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4404, 5334)": {
+        "title": "Иссорн",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4404,
+        "y": 5334,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4368, 5101)": {
+        "title": "Тиваррос",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4368,
+        "y": 5101,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4334, 5228)": {
+        "title": "Оллардис",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4334,
+        "y": 5228,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4275, 5445)": {
+        "title": "Феррисса",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4275,
+        "y": 5445,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4109, 5379)": {
+        "title": "Одиумар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4109,
+        "y": 5379,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4174, 4995)": {
+        "title": "Атриум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4174,
+        "y": 4995,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4213, 5532)": {
+        "title": "Сириан",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4213,
+        "y": 5532,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3408, 5960)": {
+        "title": "Тандора",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3408,
+        "y": 5960,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3788, 5232)": {
+        "title": "Доминера",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3788,
+        "y": 5232,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3635, 5156)": {
+        "title": "Перевиктус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3635,
+        "y": 5156,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3855, 5071)": {
+        "title": "Гетериус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3855,
+        "y": 5071,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3757, 4802)": {
+        "title": "Алтарум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3757,
+        "y": 4802,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3946, 4828)": {
+        "title": "Супериум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3946,
+        "y": 4828,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3961, 4669)": {
+        "title": "Глориенс",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3961,
+        "y": 4669,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3909, 4504)": {
+        "title": "Фалкриум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3909,
+        "y": 4504,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4124, 4540)": {
+        "title": "Доминус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4124,
+        "y": 4540,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4071, 4408)": {
+        "title": "Фламентис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4071,
+        "y": 4408,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4302, 4361)": {
+        "title": "Престар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4302,
+        "y": 4361,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4233, 4237)": {
+        "title": "Иммунарий",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4233,
+        "y": 4237,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4411, 4148)": {
+        "title": "Сферакс",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4411,
+        "y": 4148,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4583, 4206)": {
+        "title": "Луминис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4583,
+        "y": 4206,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4741, 4143)": {
+        "title": "Велиос",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4741,
+        "y": 4143,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4702, 4048)": {
+        "title": "Гексанус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4702,
+        "y": 4048,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4984, 4122)": {
+        "title": "Глорикатус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4984,
+        "y": 4122,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4962, 4047)": {
+        "title": "Мавериус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4962,
+        "y": 4047,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5079, 4091)": {
+        "title": "Триагора",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5079,
+        "y": 4091,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5881, 4445)": {
+        "title": "Зенитор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5881,
+        "y": 4445,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5858, 4316)": {
+        "title": "Карпериус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5858,
+        "y": 4316,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5722, 4044)": {
+        "title": "Гелиарий",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5722,
+        "y": 4044,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5598, 4170)": {
+        "title": "Фалкорум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5598,
+        "y": 4170,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5725, 4158)": {
+        "title": "Магнавиум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5725,
+        "y": 4158,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5739, 4287)": {
+        "title": "Анциллорум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5739,
+        "y": 4287,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5519, 4112)": {
+        "title": "Аркадис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5519,
+        "y": 4112,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5660, 3986)": {
+        "title": "Доминатус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5660,
+        "y": 3986,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5433, 3987)": {
+        "title": "Эмбриум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5433,
+        "y": 3987,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5064, 3659)": {
+        "title": "Альтаксит",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5064,
+        "y": 3659,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5118, 3907)": {
+        "title": "Империон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5118,
+        "y": 3907,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5278, 3707)": {
+        "title": "Клавиус_1",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5278,
+        "y": 3707,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4938, 3889)": {
+        "title": "Тессерум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4938,
+        "y": 3889,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4812, 3749)": {
+        "title": "Аквилариус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4812,
+        "y": 3749,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4911, 3608)": {
+        "title": "Экзальтум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4911,
+        "y": 3608,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4327, 3627)": {
+        "title": "Трибуниус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4327,
+        "y": 3627,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4501, 3634)": {
+        "title": "Сентриус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4501,
+        "y": 3634,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4599, 3822)": {
+        "title": "Локарий",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4599,
+        "y": 3822,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4329, 3872)": {
+        "title": "Шелион",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4329,
+        "y": 3872,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4122, 3845)": {
+        "title": "Праксиорум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4122,
+        "y": 3845,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4150, 3677)": {
+        "title": "Леганум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4150,
+        "y": 3677,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3719, 3928)": {
+        "title": "Небулус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3719,
+        "y": 3928,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3993, 4026)": {
+        "title": "Фортидукс",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3993,
+        "y": 4026,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3897, 3787)": {
+        "title": "Медиум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3897,
+        "y": 3787,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3826, 4193)": {
+        "title": "Кесарис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3826,
+        "y": 4193,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3548, 4123)": {
+        "title": "Септориан",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3548,
+        "y": 4123,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3651, 4343)": {
+        "title": "Мондириум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3651,
+        "y": 4343,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3522, 4586)": {
+        "title": "Магнисар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3522,
+        "y": 4586,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3320, 4659)": {
+        "title": "Фламиниум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3320,
+        "y": 4659,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3319, 4380)": {
+        "title": "Инвидиус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3319,
+        "y": 4380,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3136, 4626)": {
+        "title": "Моратар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3136,
+        "y": 4626,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3475, 4828)": {
+        "title": "Аврорарий",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3475,
+        "y": 4828,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3302, 4960)": {
+        "title": "Хелиарх",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3302,
+        "y": 4960,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3087, 4907)": {
+        "title": "Децентриум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3087,
+        "y": 4907,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3311, 5392)": {
+        "title": "Аспирантус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3311,
+        "y": 5392,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3063, 5521)": {
+        "title": "Аргентум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3063,
+        "y": 5521,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2897, 5655)": {
+        "title": "Титаниус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2897,
+        "y": 5655,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3341, 5604)": {
+        "title": "Фортифика",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3341,
+        "y": 5604,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3091, 5846)": {
+        "title": "Эфемерон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3091,
+        "y": 5846,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3236, 6409)": {
+        "title": "Сержантус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3236,
+        "y": 6409,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3163, 6197)": {
+        "title": "Феррумир",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3163,
+        "y": 6197,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3493, 6327)": {
+        "title": "Фероксиум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3493,
+        "y": 6327,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3355, 6624)": {
+        "title": "Эсториус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3355,
+        "y": 6624,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3585, 6529)": {
+        "title": "Нектарий",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3585,
+        "y": 6529,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3620, 6928)": {
+        "title": "Грейтус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3620,
+        "y": 6928,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3943, 6996)": {
+        "title": "Хелиан",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3943,
+        "y": 6996,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3909, 6764)": {
+        "title": "Аксенар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3909,
+        "y": 6764,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4184, 6998)": {
+        "title": "Эмпиритум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4184,
+        "y": 6998,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4092, 7151)": {
+        "title": "Криосар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4092,
+        "y": 7151,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3820, 7186)": {
+        "title": "Местериум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3820,
+        "y": 7186,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4166, 7393)": {
+        "title": "Интенсиум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4166,
+        "y": 7393,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4481, 7191)": {
+        "title": "Ревилус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4481,
+        "y": 7191,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4498, 7529)": {
+        "title": "Кларисис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4498,
+        "y": 7529,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4666, 7307)": {
+        "title": "Флотариум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4666,
+        "y": 7307,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4755, 7672)": {
+        "title": "Версарис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4755,
+        "y": 7672,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4930, 7435)": {
+        "title": "Декстур",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4930,
+        "y": 7435,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5187, 7421)": {
+        "title": "Этантор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5187,
+        "y": 7421,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5269, 7731)": {
+        "title": "Ургилиус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5269,
+        "y": 7731,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5458, 7524)": {
+        "title": "Вексилиус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5458,
+        "y": 7524,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5544, 7790)": {
+        "title": "Титандар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5544,
+        "y": 7790,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5815, 7691)": {
+        "title": "Офилон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5815,
+        "y": 7691,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5770, 7494)": {
+        "title": "Вардарий",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5770,
+        "y": 7494,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6456, 7685)": {
+        "title": "Рендориус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6456,
+        "y": 7685,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6190, 7741)": {
+        "title": "Паладориус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6190,
+        "y": 7741,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6183, 7478)": {
+        "title": "Вертиниум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6183,
+        "y": 7478,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6786, 7593)": {
+        "title": "Прокспариум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6786,
+        "y": 7593,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6808, 7348)": {
+        "title": "Конкордиус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6808,
+        "y": 7348,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6443, 7413)": {
+        "title": "Тринтис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6443,
+        "y": 7413,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6716, 8108)": {
+        "title": "Кариус",
+        "owner": "Тени",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6716,
+        "y": 8108,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7137, 8004)": {
+        "title": "Викторис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7137,
+        "y": 8004,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6964, 8180)": {
+        "title": "Войд",
+        "owner": "Тени",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6964,
+        "y": 8180,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5564, 6752)": {
+        "title": "Инсигнис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5564,
+        "y": 6752,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5804, 6689)": {
+        "title": "Дивинор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5804,
+        "y": 6689,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5489, 6575)": {
+        "title": "Ренеск",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5489,
+        "y": 6575,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6142, 6528)": {
+        "title": "Вандариус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6142,
+        "y": 6528,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6521, 6582)": {
+        "title": "Таркариум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6521,
+        "y": 6582,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6322, 6577)": {
+        "title": "Темплариус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6322,
+        "y": 6577,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6448, 6410)": {
+        "title": "Экзорум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6448,
+        "y": 6410,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6727, 6513)": {
+        "title": "Палладиум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6727,
+        "y": 6513,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6840, 6253)": {
+        "title": "Галантирум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6840,
+        "y": 6253,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7132, 5859)": {
+        "title": "Хориалис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7132,
+        "y": 5859,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7505, 5733)": {
+        "title": "Аурианус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7505,
+        "y": 5733,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7348, 5780)": {
+        "title": "Экстрар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7348,
+        "y": 5780,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7344, 5612)": {
+        "title": "Селестор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7344,
+        "y": 5612,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7588, 5554)": {
+        "title": "Архипелагус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7588,
+        "y": 5554,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7697, 5221)": {
+        "title": "Зенитиус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7697,
+        "y": 5221,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7524, 4988)": {
+        "title": "Орбиталис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7524,
+        "y": 4988,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7828, 4671)": {
+        "title": "Виктаниум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7828,
+        "y": 4671,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7709, 4840)": {
+        "title": "Тессарас",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7709,
+        "y": 4840,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7666, 4641)": {
+        "title": "Орфинус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7666,
+        "y": 4641,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7811, 4463)": {
+        "title": "Лимитарий",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7811,
+        "y": 4463,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7596, 4411)": {
+        "title": "Торель",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7596,
+        "y": 4411,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7592, 4119)": {
+        "title": "Набирус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7592,
+        "y": 4119,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7793, 4088)": {
+        "title": "Альтитум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7793,
+        "y": 4088,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7759, 3857)": {
+        "title": "Алтарий",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7759,
+        "y": 3857,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7523, 3886)": {
+        "title": "Проксимус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7523,
+        "y": 3886,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7748, 3535)": {
+        "title": "Воксантис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7748,
+        "y": 3535,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7522, 3586)": {
+        "title": "Принципалис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7522,
+        "y": 3586,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7621, 3212)": {
+        "title": "Сенсалус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7621,
+        "y": 3212,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7324, 3189)": {
+        "title": "Нектурион",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7324,
+        "y": 3189,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7492, 2882)": {
+        "title": "Эмпириан",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7492,
+        "y": 2882,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7233, 2935)": {
+        "title": "Пульсарис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7233,
+        "y": 2935,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7089, 2672)": {
+        "title": "Люминариус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7089,
+        "y": 2672,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7270, 2542)": {
+        "title": "Алтарис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7270,
+        "y": 2542,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6503, 1698)": {
+        "title": "Магниум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6503,
+        "y": 1698,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6698, 1903)": {
+        "title": "Септумар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6698,
+        "y": 1903,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6615, 2163)": {
+        "title": "Инфлюкс",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6615,
+        "y": 2163,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1731, 5724)": {
+        "title": "Теренис",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 1731,
+        "y": 5724,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1786, 5470)": {
+        "title": "Триумфус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1786,
+        "y": 5470,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1919, 5233)": {
+        "title": "Астралинус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1919,
+        "y": 5233,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1859, 5035)": {
+        "title": "Торус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1859,
+        "y": 5035,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1937, 4836)": {
+        "title": "Градус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1937,
+        "y": 4836,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1844, 5353)": {
+        "title": "Махсарас",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1844,
+        "y": 5353,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1996, 5045)": {
+        "title": "Астрометус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1996,
+        "y": 5045,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2098, 4828)": {
+        "title": "Стронвелл",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2098,
+        "y": 4828,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2021, 4666)": {
+        "title": "Мевирон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2021,
+        "y": 4666,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2267, 4599)": {
+        "title": "Жилвитар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2267,
+        "y": 4599,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2133, 4536)": {
+        "title": "Оркеллон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2133,
+        "y": 4536,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2199, 4341)": {
+        "title": "Таримвелл",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2199,
+        "y": 4341,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2586, 4119)": {
+        "title": "Друвиния",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2586,
+        "y": 4119,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2633, 4193)": {
+        "title": "Фирния",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2633,
+        "y": 4193,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2795, 3956)": {
+        "title": "Версалда",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2795,
+        "y": 3956,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2629, 4025)": {
+        "title": "Тилвоннар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2629,
+        "y": 4025,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2327, 4232)": {
+        "title": "Корстелл",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2327,
+        "y": 4232,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2371, 4418)": {
+        "title": "Омраксия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2371,
+        "y": 4418,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7097, 3269)": {
+        "title": "Зенир",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 7097,
+        "y": 3269,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6971, 3316)": {
+        "title": "Орлиос",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 6971,
+        "y": 3316,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7214, 3220)": {
+        "title": "Торис",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 7214,
+        "y": 3220,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6324, 3117)": {
+        "title": "Февросса",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6324,
+        "y": 3117,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6514, 2961)": {
+        "title": "Эмволлор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6514,
+        "y": 2961,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2484, 3567)": {
+        "title": "Ирдиярис",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 2484,
+        "y": 3567,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2623, 3449)": {
+        "title": "Гравалия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2623,
+        "y": 3449,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2798, 3307)": {
+        "title": "Гронвелл",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2798,
+        "y": 3307,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3053, 3255)": {
+        "title": "Хестор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3053,
+        "y": 3255,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2948, 3161)": {
+        "title": "Гемвар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2948,
+        "y": 3161,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3370, 3006)": {
+        "title": "Дальмира",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3370,
+        "y": 3006,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3167, 3112)": {
+        "title": "Ашкана",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3167,
+        "y": 3112,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3420, 3138)": {
+        "title": "Астремма",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3420,
+        "y": 3138,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4004, 2987)": {
+        "title": "Ессарис",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4004,
+        "y": 2987,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3640, 3072)": {
+        "title": "Соллитар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3640,
+        "y": 3072,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3605, 2938)": {
+        "title": "Омрисс",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3605,
+        "y": 2938,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4389, 2976)": {
+        "title": "Лиссория",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4389,
+        "y": 2976,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4477, 3069)": {
+        "title": "Рейран",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 4477,
+        "y": 3069,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4457, 3025)": {
+        "title": "_21",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4457,
+        "y": 3025,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4131, 2908)": {
+        "title": "Суламис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4131,
+        "y": 2908,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3822, 2984)": {
+        "title": "Ксарент",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3822,
+        "y": 2984,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3135, 3755)": {
+        "title": "Веолис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3135,
+        "y": 3755,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3284, 3676)": {
+        "title": "Астролия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3284,
+        "y": 3676,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3372, 3743)": {
+        "title": "Хавертал",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3372,
+        "y": 3743,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3621, 3591)": {
+        "title": "Ганвеллит",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3621,
+        "y": 3591,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3536, 3470)": {
+        "title": "Фуллар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3536,
+        "y": 3470,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3828, 3498)": {
+        "title": "Зендрос",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3828,
+        "y": 3498,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3870, 3320)": {
+        "title": "Глиммар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3870,
+        "y": 3320,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4069, 3280)": {
+        "title": "Меолин",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4069,
+        "y": 3280,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4127, 3385)": {
+        "title": "Ювард",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4127,
+        "y": 3385,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4437, 3342)": {
+        "title": "Ливория",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4437,
+        "y": 3342,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4376, 3152)": {
+        "title": "Сунвалия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4376,
+        "y": 3152,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4575, 3288)": {
+        "title": "Жавентра",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4575,
+        "y": 3288,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4674, 3126)": {
+        "title": "Омдреллис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4674,
+        "y": 3126,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4794, 3322)": {
+        "title": "Эмвисса",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4794,
+        "y": 3322,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4899, 3149)": {
+        "title": "Круллион",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4899,
+        "y": 3149,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5168, 3213)": {
+        "title": "Фирорвия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5168,
+        "y": 3213,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5159, 3391)": {
+        "title": "Авентра",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5159,
+        "y": 3391,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5381, 3262)": {
+        "title": "Омвендра",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5381,
+        "y": 3262,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5400, 3465)": {
+        "title": "Севролия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5400,
+        "y": 3465,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5566, 3519)": {
+        "title": "Ламрисса",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5566,
+        "y": 3519,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5653, 3351)": {
+        "title": "Окриссия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5653,
+        "y": 3351,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5891, 3506)": {
+        "title": "Перрания",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5891,
+        "y": 3506,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5755, 3665)": {
+        "title": "Омэстил",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5755,
+        "y": 3665,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5863, 3783)": {
+        "title": "Поллария",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5863,
+        "y": 3783,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6086, 3681)": {
+        "title": "Фаросия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6086,
+        "y": 3681,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6187, 3838)": {
+        "title": "Херваниум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6187,
+        "y": 3838,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6028, 3930)": {
+        "title": "Дравис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6028,
+        "y": 3930,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6341, 4103)": {
+        "title": "Химерон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6341,
+        "y": 4103,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6398, 4344)": {
+        "title": "Лаврия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6398,
+        "y": 4344,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6159, 4254)": {
+        "title": "Ваннас",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6159,
+        "y": 4254,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6545, 3591)": {
+        "title": "Ульмедон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6545,
+        "y": 3591,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6524, 3276)": {
+        "title": "Эвранаир",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6524,
+        "y": 3276,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6785, 3218)": {
+        "title": "Ультрамар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6785,
+        "y": 3218,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6890, 3378)": {
+        "title": "Фассор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6890,
+        "y": 3378,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6753, 3558)": {
+        "title": "Керивон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6753,
+        "y": 3558,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6964, 3702)": {
+        "title": "Аксиома",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6964,
+        "y": 3702,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6686, 3911)": {
+        "title": "Сальдрун",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6686,
+        "y": 3911,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7050, 3995)": {
+        "title": "Дервисса",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7050,
+        "y": 3995,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6834, 4206)": {
+        "title": "Элландор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6834,
+        "y": 4206,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6722, 4631)": {
+        "title": "Кресторн",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6722,
+        "y": 4631,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6962, 4562)": {
+        "title": "Орталла",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6962,
+        "y": 4562,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7135, 4296)": {
+        "title": "Талонтар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7135,
+        "y": 4296,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7057, 4926)": {
+        "title": "Инвилла",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7057,
+        "y": 4926,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6814, 4921)": {
+        "title": "Тавемнар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6814,
+        "y": 4921,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6766, 5178)": {
+        "title": "Серанн",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6766,
+        "y": 5178,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6600, 5432)": {
+        "title": "Мирваллон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6600,
+        "y": 5432,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6735, 5422)": {
+        "title": "Лермут",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6735,
+        "y": 5422,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6926, 5307)": {
+        "title": "Элриша",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6926,
+        "y": 5307,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6275, 5744)": {
+        "title": "Иналлари",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6275,
+        "y": 5744,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6446, 5641)": {
+        "title": "Крайон",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6446,
+        "y": 5641,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6609, 5702)": {
+        "title": "Жуданна",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6609,
+        "y": 5702,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5707, 6265)": {
+        "title": "Эйдем",
+        "owner": "Свободный Эйдем",
+        "marker_type": "Вторичная",
+        "is_capital": true,
+        "x": 5707,
+        "y": 6265,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6003, 6200)": {
+        "title": "Талмор",
+        "owner": "Сайдония",
+        "marker_type": "Первичная",
+        "is_capital": true,
+        "x": 6003,
+        "y": 6200,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5849, 6184)": {
+        "title": "Вандерон",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5849,
+        "y": 6184,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5907, 6315)": {
+        "title": "Тамриэль",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5907,
+        "y": 6315,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5759, 6348)": {
+        "title": "Эриада",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5759,
+        "y": 6348,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5531, 6251)": {
+        "title": "Тарносса",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5531,
+        "y": 6251,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4996, 6368)": {
+        "title": "Ивран",
+        "owner": "Соц.Интерн",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4996,
+        "y": 6368,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5231, 6335)": {
+        "title": "Иллиат",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5231,
+        "y": 6335,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5223, 6139)": {
+        "title": "Тореллия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5223,
+        "y": 6139,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5676, 6074)": {
+        "title": "Калдерна",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5676,
+        "y": 6074,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6370, 5917)": {
+        "title": "Меларон",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6370,
+        "y": 5917,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6209, 6208)": {
+        "title": "Тейл",
+        "owner": "Сайдония",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 6209,
+        "y": 6208,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6299, 6376)": {
+        "title": "Ларгон",
+        "owner": "Сайдония",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 6299,
+        "y": 6376,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6215, 6089)": {
+        "title": "Айсин",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6215,
+        "y": 6089,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6046, 5982)": {
+        "title": "Переон",
+        "owner": "Сайдония",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6046,
+        "y": 5982,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4843, 6326)": {
+        "title": "Сенволис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4843,
+        "y": 6326,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4961, 6145)": {
+        "title": "Омрусса",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4961,
+        "y": 6145,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4784, 6181)": {
+        "title": "Ракрусонт",
+        "owner": "Отсутствует",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4784,
+        "y": 6181,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4684, 6011)": {
+        "title": "Хелливар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4684,
+        "y": 6011,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4331, 6055)": {
+        "title": "Меррилтор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4331,
+        "y": 6055,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4483, 5918)": {
+        "title": "Мистерон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4483,
+        "y": 5918,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4559, 6211)": {
+        "title": "Кортесса",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4559,
+        "y": 6211,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4197, 5923)": {
+        "title": "Хорвисс",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4197,
+        "y": 5923,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4375, 5822)": {
+        "title": "Эвронд",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4375,
+        "y": 5822,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4320, 5720)": {
+        "title": "Виммора",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4320,
+        "y": 5720,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4053, 5481)": {
+        "title": "Хевордан",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4053,
+        "y": 5481,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4091, 5588)": {
+        "title": "Силлард",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4091,
+        "y": 5588,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4070, 5778)": {
+        "title": "Мерсалис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4070,
+        "y": 5778,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3981, 5754)": {
+        "title": "Сагиан",
+        "owner": "Нейтралы",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 3981,
+        "y": 5754,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4025, 5745)": {
+        "title": "_22",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 4025,
+        "y": 5745,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3942, 5769)": {
+        "title": "_23",
+        "owner": "Нейтралы",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 3942,
+        "y": 5769,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2997, 3900)": {
+        "title": "Меруссис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2997,
+        "y": 3900,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3222, 3901)": {
+        "title": "Хармеллия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3222,
+        "y": 3901,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3111, 4001)": {
+        "title": "Травеллон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3111,
+        "y": 4001,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2998, 4227)": {
+        "title": "Граволлия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2998,
+        "y": 4227,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2776, 4232)": {
+        "title": "Тирмвалл",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2776,
+        "y": 4232,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2851, 4463)": {
+        "title": "Астрелион",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2851,
+        "y": 4463,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2682, 4398)": {
+        "title": "Калразил",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2682,
+        "y": 4398,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2559, 4678)": {
+        "title": "Омритесса",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2559,
+        "y": 4678,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2746, 4729)": {
+        "title": "Сорелия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2746,
+        "y": 4729,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2402, 5623)": {
+        "title": "Севронн",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2402,
+        "y": 5623,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2624, 5378)": {
+        "title": "Сарнус",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2624,
+        "y": 5378,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2419, 5189)": {
+        "title": "Фиреллум",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2419,
+        "y": 5189,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2126, 7119)": {
+        "title": "Тумиллар",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2126,
+        "y": 7119,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2066, 6997)": {
+        "title": "Сальмория",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2066,
+        "y": 6997,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2082, 6847)": {
+        "title": "Омуллард",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2082,
+        "y": 6847,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1976, 6813)": {
+        "title": "Висмарис",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1976,
+        "y": 6813,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1954, 6389)": {
+        "title": "Хорналь",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1954,
+        "y": 6389,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1948, 6585)": {
+        "title": "Карвион",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1948,
+        "y": 6585,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2077, 6473)": {
+        "title": "Вальдрос",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2077,
+        "y": 6473,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2101, 6276)": {
+        "title": "Корраннис",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2101,
+        "y": 6276,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(1969, 6192)": {
+        "title": "Куверия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 1969,
+        "y": 6192,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2119, 6119)": {
+        "title": "Лернвос",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2119,
+        "y": 6119,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2025, 5855)": {
+        "title": "Таррексия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2025,
+        "y": 5855,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2117, 5621)": {
+        "title": "Нувирия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2117,
+        "y": 5621,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2238, 5838)": {
+        "title": "Эвераза",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2238,
+        "y": 5838,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2236, 5655)": {
+        "title": "Нидрос",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2236,
+        "y": 5655,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2243, 5475)": {
+        "title": "Элторист",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2243,
+        "y": 5475,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2274, 5145)": {
+        "title": "Зиранн",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2274,
+        "y": 5145,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2330, 4954)": {
+        "title": "Крисолия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2330,
+        "y": 4954,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2387, 4809)": {
+        "title": "Шаррел",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2387,
+        "y": 4809,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2570, 5699)": {
+        "title": "Келдрин",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2570,
+        "y": 5699,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2590, 5893)": {
+        "title": "Омвисса",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2590,
+        "y": 5893,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2422, 5913)": {
+        "title": "Эскрид",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2422,
+        "y": 5913,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2679, 6180)": {
+        "title": "Виртус",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2679,
+        "y": 6180,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2595, 6351)": {
+        "title": "Анвис",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2595,
+        "y": 6351,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2644, 6514)": {
+        "title": "Келламис",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2644,
+        "y": 6514,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2802, 6491)": {
+        "title": "Зулания",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2802,
+        "y": 6491,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2884, 6708)": {
+        "title": "Ормирион",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2884,
+        "y": 6708,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2777, 6846)": {
+        "title": "Омваллор",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2777,
+        "y": 6846,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3066, 6968)": {
+        "title": "Тарисоль",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3066,
+        "y": 6968,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3213, 7171)": {
+        "title": "Джевур",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3213,
+        "y": 7171,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(2977, 7172)": {
+        "title": "Калворн",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 2977,
+        "y": 7172,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3159, 7466)": {
+        "title": "Римморта",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3159,
+        "y": 7466,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3365, 7332)": {
+        "title": "Оксияр",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3365,
+        "y": 7332,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3461, 7606)": {
+        "title": "Зеронтия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3461,
+        "y": 7606,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3671, 8038)": {
+        "title": "Транвос",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3671,
+        "y": 8038,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4062, 7869)": {
+        "title": "Зенир",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4062,
+        "y": 7869,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3765, 7654)": {
+        "title": "Одеон",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3765,
+        "y": 7654,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(3978, 8173)": {
+        "title": "Промир",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 3978,
+        "y": 8173,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4230, 8237)": {
+        "title": "Зустрал",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4230,
+        "y": 8237,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4318, 7970)": {
+        "title": "Риввелон",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4318,
+        "y": 7970,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4693, 8098)": {
+        "title": "Веруллон",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4693,
+        "y": 8098,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4568, 8403)": {
+        "title": "Лендривал",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4568,
+        "y": 8403,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4856, 8436)": {
+        "title": "Волгримм",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4856,
+        "y": 8436,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5049, 8215)": {
+        "title": "Хистерра",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5049,
+        "y": 8215,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5302, 8314)": {
+        "title": "Жеванрил",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5302,
+        "y": 8314,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5223, 8543)": {
+        "title": "Тримора",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5223,
+        "y": 8543,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5627, 8299)": {
+        "title": "Зулендрис",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5627,
+        "y": 8299,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5678, 8563)": {
+        "title": "Жерения",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5678,
+        "y": 8563,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5988, 8532)": {
+        "title": "Гельмасс",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5988,
+        "y": 8532,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6043, 8283)": {
+        "title": "Стемворн",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6043,
+        "y": 8283,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6348, 8267)": {
+        "title": "Авирдос",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6348,
+        "y": 8267,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(6440, 8542)": {
+        "title": "Коливерн",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 6440,
+        "y": 8542,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7288, 8184)": {
+        "title": "Талморн",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7288,
+        "y": 8184,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7407, 7865)": {
+        "title": "Кирвит",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7407,
+        "y": 7865,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7647, 8009)": {
+        "title": "Тимвир",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7647,
+        "y": 8009,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7871, 7629)": {
+        "title": "Висторин",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7871,
+        "y": 7629,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8174, 7738)": {
+        "title": "Желария",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8174,
+        "y": 7738,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8496, 7541)": {
+        "title": "Эвтар",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8496,
+        "y": 7541,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8252, 7314)": {
+        "title": "Зельтар",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8252,
+        "y": 7314,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8541, 7103)": {
+        "title": "Фиратия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8541,
+        "y": 7103,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8802, 7224)": {
+        "title": "Оквелл",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8802,
+        "y": 7224,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9043, 6959)": {
+        "title": "Укселия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9043,
+        "y": 6959,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8845, 6760)": {
+        "title": "Хеллур",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8845,
+        "y": 6760,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8978, 6465)": {
+        "title": "Остилион",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8978,
+        "y": 6465,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9231, 6624)": {
+        "title": "Хиволлин",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9231,
+        "y": 6624,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9411, 6246)": {
+        "title": "Версотта",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9411,
+        "y": 6246,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9235, 6007)": {
+        "title": "Фертус",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9235,
+        "y": 6007,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9553, 5755)": {
+        "title": "Крессаил",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9553,
+        "y": 5755,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9326, 5566)": {
+        "title": "Элтар",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9326,
+        "y": 5566,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9354, 5289)": {
+        "title": "Омиррен",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9354,
+        "y": 5289,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9595, 5299)": {
+        "title": "Риалма",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9595,
+        "y": 5299,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9605, 4899)": {
+        "title": "Нумерин",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9605,
+        "y": 4899,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9336, 4759)": {
+        "title": "Омридия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9336,
+        "y": 4759,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9600, 4367)": {
+        "title": "Обсидора",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9600,
+        "y": 4367,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9346, 4273)": {
+        "title": "Орония",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9346,
+        "y": 4273,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9512, 3915)": {
+        "title": "Ландроссия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9512,
+        "y": 3915,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9275, 3868)": {
+        "title": "Кувалин",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9275,
+        "y": 3868,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9413, 3587)": {
+        "title": "Иквиллия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9413,
+        "y": 3587,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9225, 3557)": {
+        "title": "Верикан",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9225,
+        "y": 3557,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9246, 3134)": {
+        "title": "Тевисса",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9246,
+        "y": 3134,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9019, 2808)": {
+        "title": "Умбера",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 9019,
+        "y": 2808,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8843, 2481)": {
+        "title": "Ливендос",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8843,
+        "y": 2481,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(9002, 3181)": {
+        "title": "Пегас",
+        "owner": "Отсутствует",
+        "marker_type": "Первичная",
+        "is_capital": false,
+        "x": 9002,
+        "y": 3181,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8886, 3226)": {
+        "title": "Дикар I",
+        "owner": "Отсутствует",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 8886,
+        "y": 3226,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8702, 3069)": {
+        "title": "Гилмория",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8702,
+        "y": 3069,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8796, 3251)": {
+        "title": "Умбрион",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8796,
+        "y": 3251,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8852, 3468)": {
+        "title": "Астресса",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8852,
+        "y": 3468,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8851, 3726)": {
+        "title": "Витерия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8851,
+        "y": 3726,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8959, 3864)": {
+        "title": "Талендрис",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8959,
+        "y": 3864,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8959, 4108)": {
+        "title": "Кассет",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8959,
+        "y": 4108,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8793, 4012)": {
+        "title": "Гумриан",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8793,
+        "y": 4012,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8783, 4244)": {
+        "title": "Стеврон",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8783,
+        "y": 4244,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8954, 4378)": {
+        "title": "Вердонн",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8954,
+        "y": 4378,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8594, 5114)": {
+        "title": "Фаррисса",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8594,
+        "y": 5114,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8855, 4907)": {
+        "title": "Кетрания",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8855,
+        "y": 4907,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8726, 4706)": {
+        "title": "Оксидара",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8726,
+        "y": 4706,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8796, 5244)": {
+        "title": "Грасиль",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8796,
+        "y": 5244,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8703, 5475)": {
+        "title": "Стандорн",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8703,
+        "y": 5475,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8472, 5509)": {
+        "title": "Юмвалл",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8472,
+        "y": 5509,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8545, 5985)": {
+        "title": "Юмвар",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8545,
+        "y": 5985,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8272, 5960)": {
+        "title": "Моралия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8272,
+        "y": 5960,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8384, 6303)": {
+        "title": "Гирвиссия",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8384,
+        "y": 6303,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8103, 6247)": {
+        "title": "Гренвард",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8103,
+        "y": 6247,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8213, 6556)": {
+        "title": "Мистория",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8213,
+        "y": 6556,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7954, 6446)": {
+        "title": "Хиратал",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7954,
+        "y": 6446,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8034, 6729)": {
+        "title": "Таворон",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8034,
+        "y": 6729,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7751, 6662)": {
+        "title": "Окрисолд",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7751,
+        "y": 6662,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7531, 6882)": {
+        "title": "Теранния",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7531,
+        "y": 6882,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7765, 6993)": {
+        "title": "Крайвелл",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7765,
+        "y": 6993,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7490, 7175)": {
+        "title": "Стемрал",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7490,
+        "y": 7175,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7301, 7041)": {
+        "title": "Хаврелл",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7301,
+        "y": 7041,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4841, 7136)": {
+        "title": "Гамбан",
+        "owner": "Орион",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4841,
+        "y": 7136,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4728, 5835)": {
+        "title": "Нурлан",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4728,
+        "y": 5835,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4832, 5830)": {
+        "title": "Хаквелл",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4832,
+        "y": 5830,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4905, 5876)": {
+        "title": "Мервалис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4905,
+        "y": 5876,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5090, 5782)": {
+        "title": "Трамвелл",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5090,
+        "y": 5782,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5118, 5898)": {
+        "title": "Дорраксия",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5118,
+        "y": 5898,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5197, 5819)": {
+        "title": "Астальва",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5197,
+        "y": 5819,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5569, 5583)": {
+        "title": "Зоррис",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5569,
+        "y": 5583,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5749, 5646)": {
+        "title": "Вуссар",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5749,
+        "y": 5646,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5593, 5719)": {
+        "title": "Есвор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5593,
+        "y": 5719,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5400, 5675)": {
+        "title": "Вериморр",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5400,
+        "y": 5675,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5399, 5807)": {
+        "title": "Кремдел",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5399,
+        "y": 5807,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(5284, 5734)": {
+        "title": "Целлория",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 5284,
+        "y": 5734,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4464, 4605)": {
+        "title": "Эрлидор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4464,
+        "y": 4605,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(4265, 4836)": {
+        "title": "Эрлидор",
+        "owner": "Нейтралы",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 4265,
+        "y": 4836,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7854, 2643)": {
+        "title": "Ругес",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7854,
+        "y": 2643,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7905, 2810)": {
+        "title": "Марфалор",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7905,
+        "y": 2810,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7927, 3369)": {
+        "title": "Тундер",
+        "owner": "Тадора",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7927,
+        "y": 3369,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(8062, 2987)": {
+        "title": "Ларгвин",
+        "owner": "Тадора",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 8062,
+        "y": 2987,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7974, 3634)": {
+        "title": "Малштер",
+        "owner": "Калмактам",
+        "marker_type": "Вторичная",
+        "is_capital": true,
+        "x": 7974,
+        "y": 3634,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7922, 3058)": {
+        "title": "Риндуси",
+        "owner": "Отсутствует",
+        "marker_type": "Вторичная",
+        "is_capital": false,
+        "x": 7922,
+        "y": 3058,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    },
+    "(7739, 5077)": {
+        "title": "Кутарх",
+        "owner": "Отсутствует",
+        "marker_type": "Третичная",
+        "is_capital": false,
+        "x": 7739,
+        "y": 5077,
+        "economy": "Отсутствует",
+        "corporation_influence": null
+    }
+}

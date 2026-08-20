@@ -1,0 +1,464 @@
+{
+  "PF": {
+    "names": {
+      "primary": "Карманный Фрегат",
+      "aliases": []
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 1,
+        "length": [100, 110],
+        "reactor": [100, 140]
+      },
+      "L": {
+        "baseCost": 1,
+        "length": [110, 120],
+        "reactor": [100, 180]
+      },
+      "M": {
+        "baseCost": 2,
+        "length": [120, 130],
+        "reactor": [100, 220]
+      },
+      "H": {
+        "baseCost": 2,
+        "length": [130, 140],
+        "reactor": [100, 260]
+      },
+      "SH": {
+        "baseCost": 3,
+        "length": [140, 150],
+        "reactor": [100, 300]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": 0,
+      "2с": 0,
+      "3с": 0,
+      "4с": 0,
+      "5с": 1,
+      "6с": 2,
+      "7с": 3
+    }
+  },
+  "CO": {
+    "names": {
+      "primary": "Корвет",
+      "aliases": []
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 3,
+        "length": [150, 160],
+        "reactor": [300, 360]
+      },
+      "L": {
+        "baseCost": 3,
+        "length": [160, 170],
+        "reactor": [300, 420]
+      },
+      "M": {
+        "baseCost": 4,
+        "length": [170, 180],
+        "reactor": [300, 480]
+      },
+      "H": {
+        "baseCost": 5,
+        "length": [180, 190],
+        "reactor": [300, 540]
+      },
+      "SH": {
+        "baseCost": 7,
+        "length": [190, 200],
+        "reactor": [300, 600]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": 0,
+      "2с": 0,
+      "3с": 0,
+      "4с": 0,
+      "5с": 2,
+      "6с": 3,
+      "7с": 5
+    }
+  },
+  "DE": {
+    "names": {
+      "primary": "Эсминец",
+      "aliases": []
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 7,
+        "length": [200, 250],
+        "reactor": [600, 580]
+      },
+      "L": {
+        "baseCost": 7,
+        "length": [250, 300],
+        "reactor": [600, 660]
+      },
+      "M": {
+        "baseCost": 8,
+        "length": [300, 400],
+        "reactor": [600, 740]
+      },
+      "H": {
+        "baseCost": 9,
+        "length": [400, 450],
+        "reactor": [600, 820]
+      },
+      "SH": {
+        "baseCost": 12,
+        "length": [450, 500],
+        "reactor": [600, 900]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": -1,
+      "2с": 0,
+      "3с": 0,
+      "4с": 0,
+      "5с": 1,
+      "6с": 1,
+      "7с": 2
+    }
+  },
+  "FR": {
+    "names": {
+      "primary": "Фрегат",
+      "aliases": []
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 11,
+        "length": [500, 550],
+        "reactor": [800, 950]
+      },
+      "L": {
+        "baseCost": 12,
+        "length": [550, 700],
+        "reactor": [800, 1000]
+      },
+      "M": {
+        "baseCost": 14,
+        "length": [700, 800],
+        "reactor": [800, 1050]
+      },
+      "H": {
+        "baseCost": 15,
+        "length": [800, 900],
+        "reactor": [800, 1100]
+      },
+      "SH": {
+        "baseCost": 20,
+        "length": [900, 1000],
+        "reactor": [800, 1200]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": -1,
+      "2с": -1,
+      "3с": 0,
+      "4с": 0,
+      "5с": 1,
+      "6с": 2,
+      "7с": 3
+    }
+  },
+  "CR": {
+    "names": {
+      "primary": "Крейсер",
+      "aliases": []
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 18,
+        "length": [1000, 1100],
+        "reactor": [1000, 1300]
+      },
+      "L": {
+        "baseCost": 20,
+        "length": [1100, 1400],
+        "reactor": [1000, 1600]
+      },
+      "M": {
+        "baseCost": 23,
+        "length": [1400, 1600],
+        "reactor": [1000, 1900]
+      },
+      "H": {
+        "baseCost": 25,
+        "length": [1600, 1900],
+        "reactor": [1000, 2200]
+      },
+      "SH": {
+        "baseCost": 33,
+        "length": [1900, 2000],
+        "reactor": [1000, 2500]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": -2,
+      "2с": -1,
+      "3с": -1,
+      "4с": 0,
+      "5с": 2,
+      "6с": 4,
+      "7с": 5
+    }
+  },
+  "BB": {
+    "names": {
+      "primary": "Линкор",
+      "aliases": []
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 28,
+        "length": [2000, 2100],
+        "reactor": [2000, 2600]
+      },
+      "L": {
+        "baseCost": 30,
+        "length": [2100, 2700],
+        "reactor": [2000, 3200]
+      },
+      "M": {
+        "baseCost": 32,
+        "length": [2700, 3300],
+        "reactor": [2000, 3800]
+      },
+      "H": {
+        "baseCost": 35,
+        "length": [3300, 3900],
+        "reactor": [2000, 4400]
+      },
+      "SH": {
+        "baseCost": 42,
+        "length": [3900, 4000],
+        "reactor": [2000, 5000]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": -3,
+      "2с": -2,
+      "3с": -1,
+      "4с": 0,
+      "5с": 3,
+      "6с": 5,
+      "7с": 7
+    }
+  },
+  "DN": {
+    "names": {
+      "primary": "Дредноут",
+      "aliases": []
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 41,
+        "length": [4000, 4100],
+        "reactor": [4500, 5400]
+      },
+      "L": {
+        "baseCost": 45,
+        "length": [4100, 4600],
+        "reactor": [4500, 6300]
+      },
+      "M": {
+        "baseCost": 48,
+        "length": [4600, 5200],
+        "reactor": [4500, 7200]
+      },
+      "H": {
+        "baseCost": 50,
+        "length": [5200, 5900],
+        "reactor": [4500, 8100]
+      },
+      "SH": {
+        "baseCost": 55,
+        "length": [5900, 6000],
+        "reactor": [4500, 9000]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": -5,
+      "2с": -2,
+      "3с": -1,
+      "4с": 0,
+      "5с": 5,
+      "6с": 7,
+      "7с": 10
+    }
+  },
+  "G": {
+    "names": {
+      "primary": "Голиаф",
+      "aliases": ["Супер-Дредноут"]
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 53,
+        "length": [6000, 6300],
+        "reactor": [8000, 8800]
+      },
+      "L": {
+        "baseCost": 59,
+        "length": [6300, 7400],
+        "reactor": [8000, 9600]
+      },
+      "M": {
+        "baseCost": 62,
+        "length": [7400, 8600],
+        "reactor": [8000, 10400]
+      },
+      "H": {
+        "baseCost": 65,
+        "length": [8600, 9700],
+        "reactor": [8000, 11200]
+      },
+      "SH": {
+        "baseCost": 72,
+        "length": [9700, 10000],
+        "reactor": [8000, 12000]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": -6,
+      "2с": -3,
+      "3с": -2,
+      "4с": 0,
+      "5с": 6,
+      "6с": 9,
+      "7с": 12
+    }
+  },
+  "C": {
+    "names": {
+      "primary": "Колосс",
+      "aliases": ["Мега-Дредноут"]
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 71,
+        "length": [10000, 10400],
+        "reactor": [11000, 12000]
+      },
+      "L": {
+        "baseCost": 74,
+        "length": [10400, 13000],
+        "reactor": [11000, 13000]
+      },
+      "M": {
+        "baseCost": 78,
+        "length": [13000, 17000],
+        "reactor": [11000, 14000]
+      },
+      "H": {
+        "baseCost": 80,
+        "length": [17000, 19600],
+        "reactor": [11000, 15000]
+      },
+      "SH": {
+        "baseCost": 88,
+        "length": [19600, 20000],
+        "reactor": [11000, 16000]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": -8,
+      "2с": -4,
+      "3с": -2,
+      "4с": 0,
+      "5с": 8,
+      "6с": 12,
+      "7с": 16
+    }
+  },
+  "T": {
+    "names": {
+      "primary": "Титан",
+      "aliases": ["Гипер-Дредноут"]
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 86,
+        "length": [20000, 21000],
+        "reactor": [15000, 16000]
+      },
+      "L": {
+        "baseCost": 90,
+        "length": [21000, 27000],
+        "reactor": [15000, 17000]
+      },
+      "M": {
+        "baseCost": 95,
+        "length": [27000, 33000],
+        "reactor": [15000, 18000]
+      },
+      "H": {
+        "baseCost": 100,
+        "length": [33000, 39000],
+        "reactor": [15000, 19000]
+      },
+      "SH": {
+        "baseCost": 120,
+        "length": [39000, 40000],
+        "reactor": [15000, 20000]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": -10,
+      "2с": -5,
+      "3с": -2,
+      "4с": 0,
+      "5с": 10,
+      "6с": 15,
+      "7с": 20
+    }
+  },
+  "M": {
+    "names": {
+      "primary": "Мазершип",
+      "aliases": []
+    },
+    "hulls": {
+      "SL": {
+        "baseCost": 129,
+        "length": [40000, 41000],
+        "reactor": [20000, 22000]
+      },
+      "L": {
+        "baseCost": 135,
+        "length": [41000, 55000],
+        "reactor": [20000, 24000]
+      },
+      "M": {
+        "baseCost": 143,
+        "length": [55000, 65000],
+        "reactor": [20000, 26000]
+      },
+      "H": {
+        "baseCost": 150,
+        "length": [65000, 80000],
+        "reactor": [20000, 28000]
+      },
+      "SH": {
+        "baseCost": 180,
+        "length": [80000, 85000],
+        "reactor": [20000, 30000]
+      }
+    },
+    "componentCostModifiers": {
+      "1с": -15,
+      "2с": -7,
+      "3с": -4,
+      "4с": 0,
+      "5с": 15,
+      "6с": 22,
+      "7с": 29
+    }
+  }
+}

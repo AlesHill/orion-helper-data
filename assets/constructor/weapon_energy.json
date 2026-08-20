@@ -1,0 +1,368 @@
+{
+  "BL": {
+    "name": "Пучковый лазер",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 8,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 12,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 15,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "PL": {
+    "name": "Импульсные Лазеры",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 10,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 14,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 18,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "SL": {
+    "name": "Спектральные Лазеры",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 12,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 16,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 20,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "PuL": {
+    "name": "Пульсирующие Лазеры",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 10,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 15,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 20,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "P": {
+    "name": "Фазер",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN",
+      "SUPER"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 15,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 20,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 25,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "T": {
+    "name": "Турболазеры",
+    "roles": [
+      "AUX",
+      "MAIN"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 20,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 25,
+        "ship_wep": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 30,
+        "ship_wep": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "RL": {
+    "name": "Залповое Орудие",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN",
+      "SUPER"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 6,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 9,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 13,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "MBC": {
+    "name": "Многоствольные Орудие",
+    "roles": [
+      "AA",
+      "AUX"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 5,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 8,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 12,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "FC": {
+    "name": "Осколочное Орудие",
+    "roles": [
+      "AA",
+      "AUX"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 4,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 7,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 11,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "RV": {
+    "name": "Ракетные Аппараты",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 5,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 8,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 12,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "TT": {
+    "name": "Торпедные Аппараты",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN",
+      "SUPER"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 5,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 10,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 15,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "MD": {
+    "name": "Масс-Драйвер",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN",
+      "SUPER"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 60,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 70,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 80,
+        "ship_wep": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "GC": {
+    "name": "Орудие Гаусса",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN",
+      "SUPER"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 40,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 50,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 60,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "R": {
+    "name": "Рельсотрон",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN",
+      "SUPER"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 40,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 50,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 60,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "PA": {
+    "name": "Ускоритель Плазмы",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN",
+      "SUPER"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 50,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 60,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 70,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "SW": {
+    "name": "Шоковое Орудие",
+    "roles": [
+      "AA",
+      "AUX",
+      "MAIN",
+      "SUPER"
+    ],
+    "sizes": {
+      "LIGHT": {
+        "w_cost": 50,
+        "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "MEDIUM": {
+        "w_cost": 60,
+        "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "HEAVY": {
+        "w_cost": 70,
+        "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      }
+    }
+  },
+  "superWeapon": {
+    "costMultiplier": 2.0,
+    "energyUsage": "HALF_REACTOR",
+    "requirements": {
+      "minHullType": "SH",
+      "minShipClassIndex": 5,
+      "maxReactor": true
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "Отсутствует" : {
+    "id": "0",
+    "title_name": "Не занятые Системы",
+    "owner_name": "Отсутствует",
+    "photo_name": "flag_not",
+    "сorporation_names": "",
+    "ideology": "Отсутствует",
+    "government": "Отсутствует",
+    "form_state": "Отсутствует",
+    "capital": ""
+  },
+  "Нейтралы" : {
+    "id": "1",
+    "title_name": "Нейтральные Системы",
+    "owner_name": "Нейтралы",
+    "photo_name": "flag_netral",
+    "сorporation_names": "",
+    "ideology": "Нет единой",
+    "government": "Нет единой",
+    "form_state": "Нет единой",
+    "capital": ""
+  },
+  "Орион" : {
+    "id": "2",
+    "title_name": "Орионская Советская Федеративная Социалистическая Республика",
+    "owner_name": "Орион",
+    "photo_name": "flag_orion",
+    "сorporation_names": "Картана",
+    "ideology": "Социализм",
+    "government": "Федеративная Однопартийная Социалистическая Республика",
+    "form_state": "Централизованная Федерация",
+    "capital": "Земля"
+  },
+  "Империя" : {
+    "id": "3",
+    "title_name": "Великая Галактическая Империя",
+    "owner_name": "Империя",
+    "photo_name": "flag_imperiay",
+    "сorporation_names": "Доксфорд",
+    "ideology": "Империализм",
+    "government": "Выборная Абсолютная Монархия",
+    "form_state": "Централизованная Федерация",
+    "capital": "Нембриакс"
+  },
+  "Сайдония" : {
+    "id": "4",
+    "title_name": "Империя Талоса",
+    "owner_name": "Сайдония",
+    "photo_name": "flag_saidoniay",
+    "сorporation_names": "Великий Легион",
+    "ideology": "Империалисты",
+    "government": "Абсолютная Монархия",
+    "form_state": "Унитарное государство",
+    "capital": "Талмора"
+  },
+  "Содружество Звёзд" : {
+    "id": "5",
+    "title_name": "Содружество Звёзд",
+    "owner_name": "Содружество Звёзд",
+    "photo_name": "flag_sodrujistvo",
+    "сorporation_names": "Гос.Корп.",
+    "ideology": "Коммунизм",
+    "government": "Военная Диктатура",
+    "form_state": "Унитарное государство",
+    "capital": "Аксагон"
+  },
+  "Свободный Эйдем" : {
+    "id": "6",
+    "title_name": "Свободный Эйдем",
+    "owner_name": "Свободный Эйдем",
+    "photo_name": "flag_edem",
+    "сorporation_names": "",
+    "ideology": "Прогресситы",
+    "government": "Дуалистическая монархия",
+    "form_state": "Унитарное государство",
+    "capital": "Эйдем"
+  },
+  "ССМП" : {
+    "id": "7",
+    "title_name": "Соединённые Сектора Млечного Пути",
+    "owner_name": "ССМП",
+    "photo_name": "flag_ssmp",
+    "сorporation_names": "Сегинус",
+    "ideology": "Капитализм",
+    "government": "Республика (Смешанная)",
+    "form_state": "Федерация",
+    "capital": "Ваншатата"
+  },
+  "Соц.Интерн" : {
+    "id": "8",
+    "title_name": "Социалистический Интернационал",
+    "owner_name": "Соц.Интерн",
+    "photo_name": "flag_socintren",
+    "сorporation_names": "Гиалис",
+    "ideology": "Социализм",
+    "government": "Федеративная Однопартийная Республика",
+    "form_state": "Федерация",
+    "capital": "Аркадия-Прайм"
+  },
+  "NeIRo Gestalt" : {
+    "id": "9",
+    "title_name": "NeIRo Gestalt",
+    "owner_name": "NeIRo Gestalt",
+    "photo_name": "flag_neiro",
+    "сorporation_names": "Gestalt",
+    "ideology": "Социализм",
+    "government": "Единая Сеть",
+    "form_state": "Единая Сеть",
+    "capital": "Миколоид-Прайм"
+  },
+  "Тени" : {
+    "id": "10",
+    "title_name": "Тени Бездны",
+    "owner_name": "Тени",
+    "photo_name": "flag_teni",
+    "сorporation_names": "Шедоу",
+    "ideology": "Социализм",
+    "government": "Парламенская Республика",
+    "form_state": "Республика",
+    "capital": "Войд"
+  },
+  "Тадора" : {
+    "id": "11",
+    "title_name": "Независимая Республика Тадора",
+    "owner_name": "Тадора",
+    "photo_name": "flag_tadora",
+    "сorporation_names": "Tadora Inc.",
+    "ideology": "Империалисты",
+    "government": "Парламенская Республика",
+    "form_state": "Республика",
+    "capital": "Тадора"
+  },
+  "Калмактам" : {
+    "id": "12",
+    "title_name": "Милитархия Калмактамы",
+    "owner_name": "Калмактам",
+    "photo_name": "flag_kalmaktam",
+    "сorporation_names": "Tadora Inc.",
+    "ideology": "Технократия",
+    "government": "Парламенская Республика",
+    "form_state": "Республика",
+    "capital": "Малштер"
+  }
+}

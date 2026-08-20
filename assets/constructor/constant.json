@@ -1,0 +1,100 @@
+{
+  "ship_hull_types": {
+    "SL": {
+      "name": "Сверх-Лёгкий",
+      "order": 1
+    },
+    "L": {
+      "name": "Лёгкий",
+      "order": 2
+    },
+    "M": {
+      "name": "Средний",
+      "order": 3
+    },
+    "H": {
+      "name": "Тяжёлый",
+      "order": 4
+    },
+    "SH": {
+      "name": "Сверх-Тяжёлый",
+      "order": 5
+    }
+  },
+  "component_modifiers": {
+    "1с": {
+      "name": "1 класс",
+      "order": 1
+    },
+    "2с": {
+      "name": "2 класс",
+      "order": 2
+    },
+    "3с": {
+      "name": "3 класс",
+      "order": 3
+    },
+    "4с": {
+      "name": "4 класс",
+      "order": 4
+    },
+    "5с": {
+      "name": "5 класс",
+      "order": 5
+    },
+    "6с": {
+      "name": "6 класс",
+      "order": 6
+    },
+    "7с": {
+      "name": "7 класс",
+      "order": 7
+    }
+  },
+
+  "weapon_sizes": {
+    "LIGHT": "Лёгкое",
+    "MEDIUM": "Среднее",
+    "HEAVY": "Тяжёлое"
+  },
+
+  "weapon_roles": {
+    "AA": "ПВО",
+    "AUX": "Вспомогательный калибр",
+    "MAIN": "Главный калибр",
+    "SUPER": "Супер-Орудие"
+  },
+
+  "ship_class_order": [
+    "PF",
+    "CO",
+    "DE",
+    "FR",
+    "CR",
+    "BB",
+    "DN",
+    "G",
+    "C",
+    "T",
+    "M"
+  ],
+  "weapon_energy_modifier": {
+    "PF": 40,
+    "CO": 50,
+    "DE": 60,
+    "FR": 70,
+    "CR": 100,
+    "BB": 110,
+    "DN": 120,
+    "G": 130,
+    "C": 140,
+    "T": 150,
+    "M": 160
+  },
+  "weapon_role_energy_modifier": {
+    "AA": 20,
+    "AUX": 60,
+    "MAIN": 85,
+    "SUPER": 100
+  }
+}
