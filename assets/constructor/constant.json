@@ -96,5 +96,52 @@
     "AUX": 60,
     "MAIN": 85,
     "SUPER": 100
+  },
+  "superWeapon": {
+    "costMultiplier": 2.0,
+    "energyUsage": "HALF_REACTOR",
+    "requirements": {
+      "minHullType": "SH",
+      "minShipClassIndex": 5,
+      "maxReactor": true
+    }
+  },
+  "ship_speed": {
+    "PF": 70.0,
+    "CO": 60.0,
+    "DE": 50.0,
+    "FR": 40.0,
+    "CR": 35.0,
+    "BB": 30.0,
+    "DN": 25.0,
+    "G": 22.0,
+    "C": 18.0,
+    "T": 14.0,
+    "M": 10.0
+  },
+  "types_modifier": {
+    "1p": 1.20,
+    "2p": 1.10,
+    "3p": 1.00,
+    "4p": 0.90,
+    "5p": 0.80
+  },
+  "hull_speed_modifier": {
+    "1p": 1.20,
+    "2p": 1.10,
+    "3p": 1.05,
+    "4p": 1.00,
+    "5p": 0.90,
+    "6p": 0.80,
+    "7p": 0.70
+  },
+  "engine_speed_modifier": {
+    "1p": 0.70,
+    "2p": 0.80,
+    "3p": 0.90,
+    "4p": 1.00,
+    "5p": 1.10,
+    "6p": 1.20,
+    "7p": 1.30
   }
 }
