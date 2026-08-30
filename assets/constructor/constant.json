@@ -53,16 +53,37 @@
   },
 
   "weapon_sizes": {
-    "LIGHT": "Лёгкое",
-    "MEDIUM": "Среднее",
-    "HEAVY": "Тяжёлое"
+    "LIGHT": {
+      "name": "Лёгкое",
+      "order": 1
+    },
+    "MEDIUM": {
+      "name": "Среднее",
+      "order": 2
+    },
+    "HEAVY": {
+      "name": "Тяжёлое",
+      "order": 3
+    }
   },
 
   "weapon_roles": {
-    "AA": "ПВО",
-    "AUX": "Вспомогательный калибр",
-    "MAIN": "Главный калибр",
-    "SUPER": "Супер-Орудие"
+    "SUPER": {
+      "name": "Супер-Орудие",
+      "order": 1
+    },
+    "MAIN": {
+      "name": "Главный калибр",
+      "order": 2
+    },
+    "AUX": {
+      "name": "Вспомогательный калибр",
+      "order": 3
+    },
+    "AA": {
+      "name": "ПВО",
+      "order": 4
+    }
   },
 
   "ship_class_order": [
@@ -78,25 +99,169 @@
     "T",
     "M"
   ],
+
+  "hangar": {
+    "usefulSpaceCoefficient": 0.38,
+
+    "specializationSpacePercent": {
+      "STANDARD": 0.10,
+      "CARRIER": 0.40
+    },
+
+    "types": {
+      "SMALL": {
+        "spacePercent": 0.01
+      },
+      "MEDIUM": {
+        "spacePercent": 0.02
+      },
+      "LARGE": {
+        "spacePercent": 0.05
+      },
+      "EXPANDED": {
+        "spacePercent": 0.10,
+        "maxCountStandard": 1,
+        "maxCountCarrier": 4
+      },
+      "CARRIER_ASSAULT": {
+        "spacePercent": 0.40,
+        "maxCountStandard": 0,
+        "maxCountCarrier": 1
+      }
+    },
+
+    "roomShape": {
+      "lengthRatio": 3.0,
+      "widthRatio": 2.0,
+      "heightRatio": 1.0
+    },
+
+    "craft": {
+      "fighter": {
+        "length": 40.0,
+        "width": 40.0
+      },
+      "shuttle": {
+        "length": 80.0,
+        "width": 80.0
+      }
+    },
+
+    "groundVehicle": {
+      "light": {
+        "length": 5.0,
+        "width": 5.0
+      },
+      "medium": {
+        "length": 15.0,
+        "width": 15.0
+      },
+      "heavy": {
+        "length": 40.0,
+        "width": 40.0
+      }
+    }
+  },
+
   "weapon_energy_modifier": {
-    "PF": 40,
-    "CO": 50,
-    "DE": 60,
-    "FR": 70,
-    "CR": 100,
-    "BB": 110,
-    "DN": 120,
-    "G": 130,
-    "C": 140,
-    "T": 150,
-    "M": 160
+    "PF": 0.4,
+    "CO": 0.5,
+    "DE": 0.6,
+    "FR": 0.7,
+    "CR": 1,
+    "BB": 1.2,
+    "DN": 1.4,
+    "G": 1.6,
+    "C": 2.0,
+    "T": 2.5,
+    "M": 3.0
   },
+
   "weapon_role_energy_modifier": {
-    "AA": 20,
-    "AUX": 60,
-    "MAIN": 85,
-    "SUPER": 100
+    "SUPER": 1,
+    "MAIN": 0.85,
+    "AUX": 0.6,
+    "AA": 0.2
   },
+
+  "module_level_order": {
+    "STD": 1,
+    "ADV": 2,
+    "SPEC": 3,
+    "SUP": 4
+  },
+
+  "module_size_order": {
+    "S": 1,
+    "M": 2,
+    "L": 3,
+    "XL": 4,
+    "CARRIER": 5
+  },
+
+  "weapon_type_energy_modifier": {
+    "LIGHT": 0.7,
+    "MEDIUM": 1.0,
+    "HEAVY": 1.4
+  },
+
+  "weapon_range": {
+    "kinetic": {
+      "bb_time_min": 0,
+      "bb_time_max": 15,
+      "ppd_time_min": 35,
+      "ppd_time_max": 60
+    },
+    "laser": {
+      "bb_ratio": 0.30,
+      "zro_ratio": 0.70,
+      "ppd_ratio": 1.00
+    },
+    "fragmentation": {
+      "bb_hull_length": 3.0,
+      "zro_hull_length": 5.0,
+      "ppd_hull_length": 8.0
+    },
+    "missile": {
+      "bb_ratio": 0.30,
+      "zro_ratio": 0.70,
+      "ppd_ratio": 1.00
+    },
+    "torpedo": {
+      "bb_ratio": 0.30,
+      "zro_ratio": 0.70,
+      "ppd_ratio": 1.00
+    },
+    "ship_class_modifier": {
+      "PF": 0.40,
+      "CO": 0.45,
+      "DE": 0.50,
+      "FR": 0.60,
+      "CR": 0.65,
+      "BB": 0.70,
+      "DN": 0.80,
+      "G": 0.95,
+      "C": 0.95,
+      "T": 0.95,
+      "M": 1.00
+    },
+    "role_modifier": {
+      "SUPER": 2.00,
+      "MAIN": 1.00,
+      "AUX": 0.50,
+      "AA": 0.20
+    },
+    "weapon_type_modifier": {
+      "LIGHT": 0.5,
+      "MEDIUM": 0.75,
+      "HEAVY": 1.0
+    }
+  },
+  "weapon_scaling": {
+    "barrel_exponent": 0.80,
+    "mount_exponent": 0.95
+  },
+
   "superWeapon": {
     "costMultiplier": 2.0,
     "energyUsage": "HALF_REACTOR",
@@ -106,6 +271,7 @@
       "maxReactor": true
     }
   },
+
   "ship_speed": {
     "PF": 70.0,
     "CO": 60.0,
@@ -119,13 +285,15 @@
     "T": 14.0,
     "M": 10.0
   },
+
   "types_modifier": {
-    "1p": 1.20,
-    "2p": 1.10,
-    "3p": 1.00,
-    "4p": 0.90,
-    "5p": 0.80
+    "SL": 1.20,
+    "L": 1.10,
+    "M": 1.00,
+    "H": 0.90,
+    "SH": 0.80
   },
+
   "hull_speed_modifier": {
     "1p": 1.20,
     "2p": 1.10,
@@ -135,6 +303,7 @@
     "6p": 0.80,
     "7p": 0.70
   },
+
   "engine_speed_modifier": {
     "1p": 0.70,
     "2p": 0.80,

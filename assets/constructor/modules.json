@@ -266,21 +266,34 @@
       "S": {
         "name": "Малый",
         "reactorPercent": 3,
+        "volumePercent": 1,
         "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "M": {
         "name": "Средний",
-        "reactorPercent": 7,
+        "reactorPercent": 6,
+        "volumePercent": 2,
         "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "L": {
+        "name": "Большой",
+        "reactorPercent": 8,
+        "volumePercent": 5,
+        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "XL": {
         "name": "Расширенный",
         "reactorPercent": 10,
-        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+        "volumePercent": 10,
+        "countMode": "EXITS",
+        "ship_mod": ["CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "CARRIER": {
         "name": "«Авианосец»",
-        "reactorPercent": 14,
+        "reactorPercent": 13,
+        "volumePercent": 40,
+        "countMode": "EXITS",
+        "carrierOnly": true,
         "ship_mod": ["CR", "BB", "DN", "G", "C", "T", "M"]
       }
     }
@@ -292,22 +305,35 @@
       "S": {
         "name": "Малый",
         "reactorPercent": 3,
-        "ship_mod": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+        "volumePercent": 1,
+        "ship_mod": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "M": {
         "name": "Средний",
         "reactorPercent": 6,
+        "volumePercent": 2,
         "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "L": {
-        "name": "Расширенный",
+        "name": "Большой",
         "reactorPercent": 9,
+        "volumePercent": 5,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+      },
+      "XL": {
+        "name": "Расширенный",
+        "reactorPercent": 11,
+        "volumePercent": 10,
+        "countMode": "EXITS",
         "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "CARRIER": {
         "name": "«Десантный»",
         "reactorPercent": 13,
-        "ship_mod": ["FR", "CR", "BB", "DN", "G", "C", "T", "M"]
+        "volumePercent": 40,
+        "countMode": "EXITS",
+        "carrierOnly": true,
+        "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       }
     }
   }

@@ -1,6 +1,10 @@
 {
   "BL": {
     "name": "Пучковый лазер",
+    "type": "LASER",
+    "laser": {
+      "focus_length_multiplier": 1000.0
+    },
     "roles": [
       "AA",
       "AUX",
@@ -21,8 +25,13 @@
       }
     }
   },
+
   "PL": {
     "name": "Импульсные Лазеры",
+    "type": "LASER",
+    "laser": {
+      "focus_length_multiplier": 1000.0
+    },
     "roles": [
       "AA",
       "AUX",
@@ -43,8 +52,13 @@
       }
     }
   },
+
   "SL": {
     "name": "Спектральные Лазеры",
+    "type": "LASER",
+    "laser": {
+      "focus_length_multiplier": 1000.0
+    },
     "roles": [
       "AA",
       "AUX",
@@ -65,8 +79,13 @@
       }
     }
   },
+
   "PuL": {
     "name": "Пульсирующие Лазеры",
+    "type": "LASER",
+    "laser": {
+      "focus_length_multiplier": 1000.0
+    },
     "roles": [
       "AA",
       "AUX",
@@ -87,8 +106,13 @@
       }
     }
   },
+
   "P": {
     "name": "Фазер",
+    "type": "LASER",
+    "laser": {
+      "focus_length_multiplier": 1500.0
+    },
     "roles": [
       "AA",
       "AUX",
@@ -110,8 +134,13 @@
       }
     }
   },
+
   "T": {
     "name": "Турболазеры",
+    "type": "LASER",
+    "laser": {
+      "focus_length_multiplier": 1500.0
+    },
     "roles": [
       "AUX",
       "MAIN"
@@ -131,8 +160,13 @@
       }
     }
   },
+
   "RL": {
     "name": "Залповое Орудие",
+    "type": "KINETIC",
+    "projectile": {
+      "velocity_km_s": 8
+    },
     "roles": [
       "AA",
       "AUX",
@@ -154,8 +188,13 @@
       }
     }
   },
+
   "MBC": {
     "name": "Многоствольные Орудие",
+    "type": "KINETIC",
+    "projectile": {
+      "velocity_km_s": 5
+    },
     "roles": [
       "AA",
       "AUX"
@@ -175,8 +214,13 @@
       }
     }
   },
+
   "FC": {
     "name": "Осколочное Орудие",
+    "type": "FRAGMENTATION",
+    "projectile": {
+      "velocity_km_s": 5
+    },
     "roles": [
       "AA",
       "AUX"
@@ -196,8 +240,11 @@
       }
     }
   },
+
   "RV": {
     "name": "Ракетные Аппараты",
+    "type": "MISSILE",
+    "focus_length_multiplier": 500.0,
     "roles": [
       "AA",
       "AUX",
@@ -205,21 +252,24 @@
     ],
     "sizes": {
       "LIGHT": {
-        "w_cost": 5,
+        "w_cost": 2,
         "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "MEDIUM": {
-        "w_cost": 8,
+        "w_cost": 4,
         "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "HEAVY": {
-        "w_cost": 12,
+        "w_cost": 6,
         "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       }
     }
   },
+
   "TT": {
     "name": "Торпедные Аппараты",
+    "type": "TORPEDO",
+    "focus_length_multiplier": 1000.0,
     "roles": [
       "AA",
       "AUX",
@@ -228,21 +278,26 @@
     ],
     "sizes": {
       "LIGHT": {
-        "w_cost": 5,
+        "w_cost": 4,
         "ship_wep": ["PF", "CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "MEDIUM": {
-        "w_cost": 10,
+        "w_cost": 6,
         "ship_wep": ["CO", "DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "HEAVY": {
-        "w_cost": 15,
+        "w_cost": 8,
         "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       }
     }
   },
+
   "MD": {
     "name": "Масс-Драйвер",
+    "type": "KINETIC",
+    "projectile": {
+      "velocity_km_s": 15
+    },
     "roles": [
       "AA",
       "AUX",
@@ -264,8 +319,13 @@
       }
     }
   },
+
   "GC": {
     "name": "Орудие Гаусса",
+    "type": "ELECTROMAGNETIC",
+    "projectile": {
+      "velocity_km_s": 10
+    },
     "roles": [
       "AA",
       "AUX",
@@ -287,8 +347,13 @@
       }
     }
   },
+
   "R": {
     "name": "Рельсотрон",
+    "type": "ELECTROMAGNETIC",
+    "projectile": {
+      "velocity_km_s": 10
+    },
     "roles": [
       "AA",
       "AUX",
@@ -310,8 +375,13 @@
       }
     }
   },
+
   "PA": {
     "name": "Ускоритель Плазмы",
+    "type": "ELECTROMAGNETIC",
+    "projectile": {
+      "velocity_km_s": 4
+    },
     "roles": [
       "AA",
       "AUX",
@@ -333,8 +403,13 @@
       }
     }
   },
+
   "SW": {
     "name": "Шоковое Орудие",
+    "type": "ELECTROMAGNETIC",
+    "projectile": {
+      "velocity_km_s": 10
+    },
     "roles": [
       "AA",
       "AUX",
@@ -354,15 +429,6 @@
         "w_cost": 70,
         "ship_wep": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       }
-    }
-  },
-  "superWeapon": {
-    "costMultiplier": 2.0,
-    "energyUsage": "HALF_REACTOR",
-    "requirements": {
-      "minHullType": "SH",
-      "minShipClassIndex": 5,
-      "maxReactor": true
     }
   }
 }

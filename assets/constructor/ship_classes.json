@@ -1,8 +1,7 @@
 {
   "PF": {
     "names": {
-      "primary": "Карманный Фрегат",
-      "aliases": []
+      "primary": "Карманный Фрегат"
     },
     "hulls": {
       "SL": {
@@ -43,8 +42,7 @@
   },
   "CO": {
     "names": {
-      "primary": "Корвет",
-      "aliases": []
+      "primary": "Корвет"
     },
     "hulls": {
       "SL": {
@@ -85,8 +83,7 @@
   },
   "DE": {
     "names": {
-      "primary": "Эсминец",
-      "aliases": []
+      "primary": "Эсминец"
     },
     "hulls": {
       "SL": {
@@ -127,8 +124,7 @@
   },
   "FR": {
     "names": {
-      "primary": "Фрегат",
-      "aliases": []
+      "primary": "Фрегат"
     },
     "hulls": {
       "SL": {
@@ -169,8 +165,7 @@
   },
   "CR": {
     "names": {
-      "primary": "Крейсер",
-      "aliases": []
+      "primary": "Крейсер"
     },
     "hulls": {
       "SL": {
@@ -211,8 +206,7 @@
   },
   "BB": {
     "names": {
-      "primary": "Линкор",
-      "aliases": []
+      "primary": "Линкор"
     },
     "hulls": {
       "SL": {
@@ -253,8 +247,7 @@
   },
   "DN": {
     "names": {
-      "primary": "Дредноут",
-      "aliases": []
+      "primary": "Дредноут"
     },
     "hulls": {
       "SL": {
@@ -295,8 +288,7 @@
   },
   "G": {
     "names": {
-      "primary": "Голиаф",
-      "aliases": ["Супер-Дредноут"]
+      "primary": "Голиаф"
     },
     "hulls": {
       "SL": {
@@ -337,8 +329,7 @@
   },
   "C": {
     "names": {
-      "primary": "Колосс",
-      "aliases": ["Мега-Дредноут"]
+      "primary": "Колосс"
     },
     "hulls": {
       "SL": {
@@ -379,8 +370,7 @@
   },
   "T": {
     "names": {
-      "primary": "Титан",
-      "aliases": ["Гипер-Дредноут"]
+      "primary": "Титан"
     },
     "hulls": {
       "SL": {
@@ -421,8 +411,7 @@
   },
   "M": {
     "names": {
-      "primary": "Мазершип",
-      "aliases": []
+      "primary": "Мазершип"
     },
     "hulls": {
       "SL": {
