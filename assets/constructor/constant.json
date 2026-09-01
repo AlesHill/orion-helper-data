@@ -102,6 +102,7 @@
 
   "hangar": {
     "usefulSpaceCoefficient": 0.38,
+    "roomMaxHeight": 35.0,
 
     "specializationSpacePercent": {
       "STANDARD": 0.10,
@@ -110,21 +111,26 @@
 
     "types": {
       "SMALL": {
-        "spacePercent": 0.01
+        "spacePercent": 0.01,
+        "capacityModifier": 0.70
       },
       "MEDIUM": {
-        "spacePercent": 0.02
+        "spacePercent": 0.02,
+        "capacityModifier": 0.80
       },
       "LARGE": {
-        "spacePercent": 0.05
+        "spacePercent": 0.05,
+        "capacityModifier": 0.90
       },
       "EXPANDED": {
         "spacePercent": 0.10,
+        "capacityModifier": 1.00,
         "maxCountStandard": 1,
         "maxCountCarrier": 4
       },
       "CARRIER_ASSAULT": {
         "spacePercent": 0.40,
+        "capacityModifier": 1.10,
         "maxCountStandard": 0,
         "maxCountCarrier": 1
       }
@@ -142,23 +148,23 @@
         "width": 40.0
       },
       "shuttle": {
-        "length": 80.0,
-        "width": 80.0
+        "length": 70.0,
+        "width": 70.0
       }
     },
 
     "groundVehicle": {
       "light": {
-        "length": 5.0,
-        "width": 5.0
-      },
-      "medium": {
         "length": 15.0,
         "width": 15.0
       },
-      "heavy": {
+      "medium": {
         "length": 40.0,
         "width": 40.0
+      },
+      "heavy": {
+        "length": 80.0,
+        "width": 80.0
       }
     }
   },

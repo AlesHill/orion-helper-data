@@ -285,14 +285,12 @@
         "name": "Расширенный",
         "reactorPercent": 10,
         "volumePercent": 10,
-        "countMode": "EXITS",
         "ship_mod": ["CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "CARRIER": {
         "name": "«Авианосец»",
         "reactorPercent": 13,
         "volumePercent": 40,
-        "countMode": "EXITS",
         "carrierOnly": true,
         "ship_mod": ["CR", "BB", "DN", "G", "C", "T", "M"]
       }
@@ -324,14 +322,12 @@
         "name": "Расширенный",
         "reactorPercent": 11,
         "volumePercent": 10,
-        "countMode": "EXITS",
         "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       },
       "CARRIER": {
         "name": "«Десантный»",
         "reactorPercent": 13,
         "volumePercent": 40,
-        "countMode": "EXITS",
         "carrierOnly": true,
         "ship_mod": ["DE", "FR", "CR", "BB", "DN", "G", "C", "T", "M"]
       }

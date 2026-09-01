@@ -1,0 +1,227 @@
+{
+  "prefix": "OH",
+  "current_version": 1,
+
+  "versions": {
+    "1": {
+      "ship": {
+        "field_order": [
+          "name",
+          "class",
+          "specialization",
+          "hull",
+          "length",
+          "width",
+          "height",
+          "reactor",
+          "armor",
+          "engine",
+          "deflector",
+          "corpuscular",
+          "ion",
+          "weapons",
+          "modules"
+        ]
+      },
+
+      "defaults": {
+        "name": "",
+        "specialization": "STANDARD",
+
+        "armor": 4,
+        "engine": 4,
+
+        "deflector": false,
+        "corpuscular": 0,
+        "ion": 0,
+
+        "weapon_name": "",
+        "weapon_count": 1,
+        "barrel_count": 1,
+
+        "module_count": 1,
+
+        "room_count": 0,
+
+        "fighters": 0,
+        "shuttles": 0,
+        "light_vehicles": 0,
+        "medium_vehicles": 0,
+        "heavy_vehicles": 0
+      },
+
+      "booleans": {
+        "false": "0",
+        "true": "1"
+      },
+
+      "specializations": {
+        "STANDARD": "0",
+        "CARRIER": "1",
+        "SUBSPACE": "2"
+      },
+
+      "ship_classes": {
+        "PF": "PF",
+        "CO": "CO",
+        "DE": "DE",
+        "FR": "FR",
+        "CR": "CR",
+        "BB": "BB",
+        "DN": "DN",
+        "G": "G",
+        "C": "C",
+        "T": "T",
+        "M": "M"
+      },
+
+      "hull_types": {
+        "SL": "0",
+        "L": "1",
+        "M": "2",
+        "H": "3",
+        "SH": "4"
+      },
+
+      "component_classes": {
+        "0": "0",
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7"
+      },
+
+      "weapon": {
+        "field_order": [
+          "weapon_id",
+          "role",
+          "size",
+          "barrel_count",
+          "weapon_count",
+          "name"
+        ],
+
+        "optional_fields": [
+          "name"
+        ],
+
+        "derived_fields": {
+          "is_super_weapon": {
+            "source": "role",
+            "equals": "SUPER"
+          }
+        }
+      },
+
+      "weapon_roles": {
+        "SUPER": "0",
+        "MAIN": "1",
+        "AUX": "2",
+        "AA": "3"
+      },
+
+      "weapon_sizes": {
+        "LIGHT": "0",
+        "MEDIUM": "1",
+        "HEAVY": "2"
+      },
+
+      "module": {
+        "field_order": [
+          "module_id",
+          "level",
+          "count",
+          "room_count",
+          "room_load"
+        ],
+
+        "optional_fields": [
+          "count",
+          "room_count",
+          "room_load"
+        ]
+      },
+
+      "module_levels": {
+        "STD": "0",
+        "ADV": "1",
+        "SPEC": "2",
+        "SUP": "3"
+      },
+
+      "hangar": {
+        "module_ids": {
+          "HANGAR-A": "HANGAR-A",
+          "HANGAR-D": "HANGAR-D"
+        },
+
+        "types": {
+          "S": "0",
+          "M": "1",
+          "L": "2",
+          "XL": "3",
+          "CARRIER": "4"
+        },
+
+        "room_load": {
+          "field_order": [
+            "fighters",
+            "shuttles",
+            "light_vehicles",
+            "medium_vehicles",
+            "heavy_vehicles"
+          ],
+
+          "defaults": {
+            "fighters": 0,
+            "shuttles": 0,
+            "light_vehicles": 0,
+            "medium_vehicles": 0,
+            "heavy_vehicles": 0
+          }
+        },
+
+        "ignored_room_fields": [
+          "volume",
+          "length",
+          "width",
+          "height",
+          "floorArea"
+        ]
+      },
+
+      "excluded_fields": {
+        "weapon": [
+          "id",
+          "isSuperWeapon"
+        ],
+
+        "module": [
+          "id"
+        ],
+
+        "hangar_room": [
+          "volume",
+          "length",
+          "width",
+          "height",
+          "floorArea"
+        ],
+
+        "calculated": [
+          "energyConsumption",
+          "totalEnergy",
+          "maximumSpeed",
+          "weaponRange",
+          "hangarCapacity",
+          "remainingCapacity",
+          "roomVolume",
+          "roomFloorArea"
+        ]
+      }
+    }
+  }
+}
