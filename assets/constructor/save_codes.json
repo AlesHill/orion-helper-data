@@ -16,6 +16,7 @@
           "reactor",
           "armor",
           "engine",
+          "hyperdrive",
           "deflector",
           "corpuscular",
           "ion",
@@ -30,6 +31,7 @@
 
         "armor": 4,
         "engine": 4,
+        "hyperdrive": 0,
 
         "deflector": false,
         "corpuscular": 0,
@@ -124,9 +126,10 @@
       },
 
       "weapon_sizes": {
-        "LIGHT": "0",
-        "MEDIUM": "1",
-        "HEAVY": "2"
+        "": "0",
+        "LIGHT": "1",
+        "MEDIUM": "2",
+        "HEAVY": "3"
       },
 
       "module": {
