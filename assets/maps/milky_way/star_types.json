@@ -1,0 +1,172 @@
+{
+  "schema": 1,
+  "purpose": "Визуальные классы центральных объектов Orion Helper. Параметры условные, для рендера карты.",
+  "default": "AVERAGE",
+  "classes": {
+    "AVERAGE": {
+      "title": "Усреднённый объект (данные неизвестны)",
+      "color": "#ddd7c9",
+      "size": 1.0,
+      "glow": 1.0,
+      "render": "star",
+      "renderCode": 0
+    },
+    "MAIN_SEQUENCE_M": {
+      "title": "Главная последовательность — M",
+      "color": "#ff6446",
+      "size": 0.73,
+      "glow": 0.78,
+      "render": "star",
+      "renderCode": 1
+    },
+    "MAIN_SEQUENCE_K": {
+      "title": "Главная последовательность — K",
+      "color": "#ffad62",
+      "size": 0.9,
+      "glow": 0.9,
+      "render": "star",
+      "renderCode": 1
+    },
+    "MAIN_SEQUENCE_G": {
+      "title": "Главная последовательность — G",
+      "color": "#ffe49b",
+      "size": 1.06,
+      "glow": 1.12,
+      "render": "star",
+      "renderCode": 1
+    },
+    "MAIN_SEQUENCE_F": {
+      "title": "Главная последовательность — F",
+      "color": "#fff5d4",
+      "size": 1.12,
+      "glow": 1.14,
+      "render": "star",
+      "renderCode": 1
+    },
+    "MAIN_SEQUENCE_FG": {
+      "title": "Переходная область F/G",
+      "color": "#fff0b8",
+      "size": 1.11,
+      "glow": 1.13,
+      "render": "star",
+      "renderCode": 1
+    },
+    "MAIN_SEQUENCE_A": {
+      "title": "Главная последовательность — A",
+      "color": "#edf4ff",
+      "size": 1.2,
+      "glow": 1.18,
+      "render": "star",
+      "renderCode": 1
+    },
+    "MAIN_SEQUENCE_B": {
+      "title": "Главная последовательность — B",
+      "color": "#a5ccff",
+      "size": 1.32,
+      "glow": 1.26,
+      "render": "star",
+      "renderCode": 1
+    },
+    "MAIN_SEQUENCE_O": {
+      "title": "Главная последовательность — O",
+      "color": "#6eacff",
+      "size": 1.44,
+      "glow": 1.4,
+      "render": "star",
+      "renderCode": 1
+    },
+    "RED_GIANT": {
+      "title": "Красный гигант",
+      "color": "#ff7446",
+      "size": 1.66,
+      "glow": 1.25,
+      "render": "giant",
+      "renderCode": 2
+    },
+    "SUPERGIANT": {
+      "title": "Сверхгигант",
+      "color": "#e9cbfa",
+      "size": 2.08,
+      "glow": 1.7,
+      "render": "supergiant",
+      "renderCode": 3
+    },
+    "WHITE_DWARF": {
+      "title": "Белый карлик",
+      "color": "#d5f5ff",
+      "size": 0.62,
+      "glow": 1.28,
+      "render": "dwarf",
+      "renderCode": 4
+    },
+    "NEUTRON_STAR": {
+      "title": "Нейтронная звезда",
+      "color": "#a6dfff",
+      "size": 0.54,
+      "glow": 1.42,
+      "render": "neutron",
+      "renderCode": 5
+    },
+    "BLACK_HOLE": {
+      "title": "Чёрная дыра",
+      "color": "#ffc482",
+      "size": 1.55,
+      "glow": 1.45,
+      "render": "blackhole",
+      "renderCode": 6
+    },
+    "PULSAR": {
+      "title": "Пульсар",
+      "color": "#98edff",
+      "size": 0.75,
+      "glow": 1.58,
+      "render": "pulsar",
+      "renderCode": 7
+    },
+    "MAGNETAR": {
+      "title": "Магнетар",
+      "color": "#bba6ff",
+      "size": 0.86,
+      "glow": 1.58,
+      "render": "magnetar",
+      "renderCode": 8
+    },
+    "BROWN_DWARF_L": {
+      "title": "Коричневый карлик — L",
+      "color": "#bf684e",
+      "size": 0.58,
+      "glow": 0.55,
+      "render": "brown",
+      "renderCode": 9
+    },
+    "BROWN_DWARF_T": {
+      "title": "Коричневый карлик — T",
+      "color": "#b34f72",
+      "size": 0.5,
+      "glow": 0.46,
+      "render": "brown",
+      "renderCode": 9
+    },
+    "BROWN_DWARF_Y": {
+      "title": "Коричневый карлик — Y",
+      "color": "#794b8b",
+      "size": 0.44,
+      "glow": 0.36,
+      "render": "brown",
+      "renderCode": 9
+    },
+    "WOLF_RAYET": {
+      "title": "Звезда Вольфа — Райе",
+      "color": "#9fffe8",
+      "size": 1.6,
+      "glow": 1.74,
+      "render": "wolf_rayet",
+      "renderCode": 10
+    }
+  },
+  "notes": {
+    "MAIN_SEQUENCE": "Спектральные классы M K G F A B O; F/G — переходная категория для Эйдема.",
+    "BROWN_DWARF": "Спектральные классы L T Y — условная карта внешнего вида, не физическая модель.",
+    "MULTIPLE": "В поле central_objects.objects разрешены два и более объекта."
+  }
+}

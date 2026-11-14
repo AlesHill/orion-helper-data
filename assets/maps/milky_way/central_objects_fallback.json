@@ -1,0 +1,29 @@
+{
+  "(5002, 6915)": {
+    "known": true,
+    "objects": [
+      {
+        "type": "MAIN_SEQUENCE_G",
+        "name": "Солнце"
+      }
+    ]
+  },
+  "(5039, 4957)": {
+    "known": true,
+    "objects": [
+      {
+        "type": "BLACK_HOLE",
+        "name": "Саггитариус A*"
+      }
+    ]
+  },
+  "(5707, 6265)": {
+    "known": false,
+    "note": "Предварительно: спектральный переход F/G; требуется уточнение.",
+    "objects": [
+      {
+        "type": "MAIN_SEQUENCE_FG"
+      }
+    ]
+  }
+}
