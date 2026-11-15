@@ -1,0 +1,260 @@
+{
+  "schema": 1,
+  "coordinate_system": {
+    "map_size": 10000,
+    "map_center_x": 5000,
+    "map_center_y": 5000,
+    "world_scale": 0.001,
+    "world_limit": 5.5,
+    "image_width": 2048,
+    "image_height": 2048,
+    "disk_half_extent": 5.0
+  },
+  "central_objects": {
+    "catalog": "maps/star_types.json",
+    "empty_prefix": "_",
+    "empty_marker_type": "Пустой объект",
+    "empty_object_type": "EMPTY",
+    "default_marker_type": "Третичная",
+    "unknown_title": "Без названия",
+    "unknown_owner": "Отсутствует",
+    "no_owner_ring": [
+      "Отсутствует",
+      "Нейтралы"
+    ],
+    "max_visible_objects": 3
+  },
+  "assets": {
+    "native_subfolder": "native",
+    "gas_layers": [
+      "galaxy_gas_0.png",
+      "galaxy_gas_1.png",
+      "galaxy_gas_2.png",
+      "galaxy_gas_3.png"
+    ],
+    "stars_file": "galaxy_stars.bin"
+  },
+  "camera_3d": {
+    "azimuth": 0.5,
+    "elevation": 0.61,
+    "distance": 19,
+    "min_distance": 0.32,
+    "max_distance": 55,
+    "min_elevation": 0.12,
+    "max_elevation": 1.55,
+    "tilt_sensitivity": 0.004,
+    "field_of_view": 60,
+    "near_plane": 0.03,
+    "far_plane": 140,
+    "gesture_motion_ms": 450,
+    "focus_target_distance": 2.35,
+    "focus_duration_ms": 1600,
+    "click_slop_dp": 12,
+    "tap_timeout_ms": 380,
+    "touch_zoom_min_factor": 0.65,
+    "touch_zoom_max_factor": 1.55
+  },
+  "galaxy": {
+    "disk_thickness": 0.9,
+    "gas_brightness": 1.46,
+    "star_brightness": 0.85,
+    "saturation": 2.0,
+    "twinkle": 0.38,
+    "drift": 0.01,
+    "gas_density": 1.62,
+    "zoom_dimming": 0.68,
+    "zoom_dimming_start": 7.5,
+    "zoom_dimming_range": 7.0,
+    "gas_dimming_multiplier": 0.75,
+    "star_dimming_multiplier": 0.85,
+    "star_point_scale": 18,
+    "system_point_scale": 18,
+    "point_reference_height": 850,
+    "gas_layers_while_moving": 2,
+    "gas_layers_idle": 4,
+    "gas_framebuffer_pixel_budget": 700000,
+    "gas_layer_z_extent": 0.33,
+    "gas_plane_z": 0.0,
+    "star_guide": 0.5
+  },
+  "labels_3d": {
+    "overlay_update_interval_ms": 30,
+    "system": {
+      "start_distance": 6.2,
+      "fade_range": 2.7,
+      "max_count": 34,
+      "alpha_cutoff": 0.015,
+      "label_offset_px": 12,
+      "capital_text_size_sp": 14,
+      "normal_text_size_sp": 12
+    },
+    "arms": {
+      "end_distance": 4.0,
+      "fade_range": 4.5,
+      "alpha_cutoff": 0.015
+    },
+    "central": {
+      "start_distance": 20.0,
+      "fade_in_range": 4.5,
+      "end_distance": 6.0,
+      "fade_out_range": 2.5
+    },
+    "arm_coordinate_z": 0.035,
+    "arm_sample_count": 25,
+    "min_visible_samples": 9,
+    "overlay_style": {
+      "arm_text_color": "#DCE5F2",
+      "arm_text_alpha": 220,
+      "arm_shadow_color": "#000000",
+      "arm_shadow_alpha": 235,
+      "arm_shadow_radius_dp": 4.5,
+      "system_text_color": "#ECF3FD",
+      "system_text_alpha": 235,
+      "system_shadow_color": "#000000",
+      "system_shadow_alpha": 185,
+      "system_shadow_radius_dp": 8,
+      "outline_color": "#040813",
+      "outline_alpha": 230,
+      "outline_width_dp": 2.4,
+      "arm_max_font_fraction_major": 0.043,
+      "arm_max_font_fraction_minor": 0.03,
+      "arm_importance_boundary": 0.8,
+      "arm_font_min_dp": 6.8,
+      "arm_shortening_threshold_dp": 8.2,
+      "arm_path_fill_factor": 0.92,
+      "arm_ink_alpha": 245,
+      "arm_stroke_alpha": 225,
+      "central_long_form": "трёхкилопарсековый",
+      "central_short_form": "3-кпк"
+    },
+    "selected_system": {
+      "text_size_sp": 13,
+      "text_color": "#EBF2FD",
+      "background_color": "#D209121D",
+      "top_margin_dp": 106,
+      "padding_horizontal_px": 18,
+      "padding_vertical_px": 11,
+      "owner_separator": " · "
+    }
+  },
+  "lines_3d": {
+    "sector": {
+      "color": "#94BFF9",
+      "alpha": 0.56,
+      "world_z": 0.012,
+      "simplify_distance": 13,
+      "min_segment_distance": 1,
+      "fade_base": 0.55,
+      "fade_extra": 0.35,
+      "fade_distance": 9,
+      "fade_range": 7,
+      "halo_width_px": 3.1,
+      "halo_alpha": 0.1,
+      "main_width_px": 1.05,
+      "main_alpha": 0.85
+    },
+    "magiestrals": {
+      "world_z": 0.015,
+      "halo_exposure": 1.1,
+      "halo_width_px": 4.6,
+      "halo_alpha": 0.25,
+      "main_exposure": 1.2,
+      "main_width_px": 1.8,
+      "main_alpha": 1.0,
+      "types": {
+        "Главная": {
+          "color": "#9EDFFF",
+          "alpha": 0.91
+        },
+        "Второстепенная": {
+          "color": "#75BAFA",
+          "alpha": 0.72
+        },
+        "Побочная": {
+          "color": "#75BAFA",
+          "alpha": 0.72
+        }
+      }
+    },
+    "route": {
+      "color": "#FFBA47",
+      "alpha": 0.95,
+      "world_z": 0.03,
+      "halo_exposure": 1.3,
+      "halo_width_px": 6,
+      "halo_alpha": 0.34,
+      "main_exposure": 1.55,
+      "main_width_px": 2.8,
+      "main_alpha": 1.0
+    }
+  },
+  "markers_3d": {
+    "capital_size": 6.1,
+    "regular_size": 4.4,
+    "point_world_z": 0.025,
+    "owner_ring_visible": true,
+    "empty_hollow_icon": true,
+    "default_color": "#DDD7C9"
+  },
+  "camera_2d": {
+    "min_zoom": 1.0,
+    "max_zoom": 128.0,
+    "focus_zoom": 32.0,
+    "focus_duration_ms": 5000
+  },
+  "labels_2d": {
+    "marker_fade_start": 1.5,
+    "marker_fade_end": 2.0,
+    "label_fade_start": 4.5,
+    "label_fade_end": 6.0,
+    "text_size_px": 40,
+    "text_offset_px": 40,
+    "text_outline_width_px": 10,
+    "visible_margin_px": 300,
+    "marker_visible_margin_px": 100,
+    "text_color": "#FFFFFF",
+    "outline_color": "#000000",
+    "marker_outline_color": "#FFFFFF"
+  },
+  "markers_2d": {
+    "types": {
+      "Первичная": {
+        "size_px": 15,
+        "stroke_width_px": 4
+      },
+      "Вторичная": {
+        "size_px": 10,
+        "stroke_width_px": 4
+      },
+      "Третичная": {
+        "size_px": 7,
+        "stroke_width_px": 2
+      },
+      "Пустой объект": {
+        "size_px": 4,
+        "stroke_width_px": 1
+      }
+    },
+    "empty_marker_filled": false
+  },
+  "magiestrals_2d": {
+    "fade_start": 1.5,
+    "fade_end": 2.0,
+    "widths": {
+      "Главная": 4,
+      "Второстепенная": 3,
+      "Побочная": 2
+    },
+    "default_width": 2.0,
+    "default_type": "Побочная"
+  },
+  "sector_defaults": {
+    "unknown_name": "Без названия"
+  },
+  "route": {
+    "distance_per_minute": 0.75,
+    "neutral_owner": "Нейтралы",
+    "unowned_owner": "Отсутствует",
+    "default_hyperdrive_class": 1.0
+  }
+}

@@ -2956,17 +2956,17 @@
   "(4147, 1828)": {
     "title": "_13",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 4147,
     "y": 1828,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -2974,17 +2974,17 @@
   "(4127, 1528)": {
     "title": "_14",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 4127,
     "y": 1528,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -2992,17 +2992,17 @@
   "(5006, 1612)": {
     "title": "_11",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 5006,
     "y": 1612,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -3010,17 +3010,17 @@
   "(4926, 1910)": {
     "title": "_12",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 4926,
     "y": 1910,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -3028,17 +3028,17 @@
   "(5723, 1828)": {
     "title": "_9",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 5723,
     "y": 1828,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -3046,17 +3046,17 @@
   "(5533, 2090)": {
     "title": "_10",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 5533,
     "y": 2090,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -3082,17 +3082,17 @@
   "(2744, 3212)": {
     "title": "_16",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 2744,
     "y": 3212,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -3100,17 +3100,17 @@
   "(2638, 3136)": {
     "title": "_15",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 2638,
     "y": 3136,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -3136,17 +3136,17 @@
   "(4209, 2863)": {
     "title": "_18",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 4209,
     "y": 2863,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -3154,17 +3154,17 @@
   "(4295, 2588)": {
     "title": "_17",
     "owner": "Империя",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 4295,
     "y": 2588,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -4378,17 +4378,17 @@
   "(7819, 3476)": {
     "title": "_7",
     "owner": "Отсутствует",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 7819,
     "y": 3476,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -4396,17 +4396,17 @@
   "(7865, 3435)": {
     "title": "_8",
     "owner": "Отсутствует",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 7865,
     "y": 3435,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -4414,17 +4414,17 @@
   "(6331, 7266)": {
     "title": "_2",
     "owner": "Орион",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 6331,
     "y": 7266,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -4432,17 +4432,17 @@
   "(6364, 7316)": {
     "title": "_1",
     "owner": "Орион",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 6364,
     "y": 7316,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -4450,17 +4450,17 @@
   "(5158, 7343)": {
     "title": "_3",
     "owner": "Орион",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 5158,
     "y": 7343,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -4468,17 +4468,17 @@
   "(5097, 7283)": {
     "title": "_4",
     "owner": "Орион",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 5097,
     "y": 7283,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -4540,17 +4540,17 @@
   "(5172, 4070)": {
     "title": "_19",
     "owner": "Нейтралы",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 5172,
     "y": 4070,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -5170,17 +5170,17 @@
   "(6673, 4625)": {
     "title": "_20",
     "owner": "ССМП",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 6673,
     "y": 4625,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -9076,17 +9076,17 @@
   "(4457, 3025)": {
     "title": "_21",
     "owner": "Нейтралы",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 4457,
     "y": 3025,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -10571,17 +10571,17 @@
   "(4025, 5745)": {
     "title": "_22",
     "owner": "Нейтралы",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 4025,
     "y": 5745,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }
@@ -10589,17 +10589,17 @@
   "(3942, 5769)": {
     "title": "_23",
     "owner": "Нейтралы",
-    "marker_type": "Третичная",
+    "marker_type": "Пустой объект",
     "is_capital": false,
     "x": 3942,
     "y": 5769,
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "objects": [
         {
-          "type": "AVERAGE"
+          "type": "EMPTY"
         }
       ]
     }

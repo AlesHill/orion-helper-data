@@ -11,7 +11,11 @@ void main(){
  float halo=exp(-3.0*r*r);
  float alpha=clamp((.95*core+.38*halo)*vGlow,0.0,1.0);
  vec3 col=vTint;
- if(vCount>1.5){
+ if(vKind < -0.5){
+  // Пустой объект: никакого звёздного ядра, только слабый контур маркера.
+  float outline = 1.0-smoothstep(.030,.085,abs(r-.58));
+  alpha = outline*.62;
+ } else if(vCount>1.5){
   float a=uTime*.20;
   vec2 shift=vec2(cos(a),sin(a))*.30;
   float left=spot(p,shift,29.0),right=spot(p,-shift,30.0);
