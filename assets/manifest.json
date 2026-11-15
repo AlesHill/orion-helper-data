@@ -1,10 +1,10 @@
 {
-    "version":  9,
+    "version":  10,
     "files":  {
                   "constructor/constant.json":  "9F6507B22ABB6FB7673B50F1971074EDDB8EC1C2B8A5EF8C099CD01B83FDF4F6",
                   "constructor/modules.json":  "677A7D5F0283F0103FBD2951E34F5D5CFA70DAB0FC822317AACE5C6CD6C40435",
                   "constructor/save_codes.json":  "97975A1D71E1739A860F326DC8E5C78EAEA30BE8B657718C1BA96026C3B4442E",
-                  "constructor/ship_classes.json":  "362DE34D01B8C66A72179E2732141070F36B10A748521A34EAFEE5B34674002D",
+                  "constructor/ship_classes.json":  "93EA6F34145902E1C706E102CDAFAA49D51786EED9546BC396319901070CA6D2",
                   "constructor/weapon_energy.json":  "DB2E0CEE13CA178D791F14649D0333629C43F0BC8283E862174B6DB5E824294F",
                   "maps/milky_way/central_objects_fallback.json":  "B6CB3FA6463215A8437B7C119FACC17A819BDC8CD8B620C0A88E2C8A993578B3",
                   "maps/milky_way/colors.json":  "1E816E0078030FDC4C2E4FADAF6F9C72BB72892978394862F54CA711961A6297",
