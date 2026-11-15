@@ -1,7 +1,8 @@
 {
-    "version":  13,
+    "version":  14,
     "files":  {
                   "constructor/constant.json":  "9F6507B22ABB6FB7673B50F1971074EDDB8EC1C2B8A5EF8C099CD01B83FDF4F6",
+                  "constructor/document_labels.json":  "4B6439783ED8C5046ECF23E64AAD2B3925654EF4104113E955D73B99F37A1CD9",
                   "constructor/modules.json":  "677A7D5F0283F0103FBD2951E34F5D5CFA70DAB0FC822317AACE5C6CD6C40435",
                   "constructor/save_codes.json":  "97975A1D71E1739A860F326DC8E5C78EAEA30BE8B657718C1BA96026C3B4442E",
                   "constructor/ship_classes.json":  "93EA6F34145902E1C706E102CDAFAA49D51786EED9546BC396319901070CA6D2",

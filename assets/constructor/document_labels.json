@@ -1,0 +1,59 @@
+{
+  "document_title": "ORION HELPER — ТЕХНИЧЕСКОЕ ОПИСАНИЕ КОРАБЛЯ",
+  "object_type_name": "Корабль",
+  "fields": {
+    "object_type": "Тип объекта",
+    "series_name": "Название / серия",
+    "ship_class": "Класс корабля",
+    "specialization": "Специализация",
+    "hull_type": "Тип корпуса",
+    "dimensions": "Габариты (Д × Ш × В)",
+    "reactor_power": "Мощность реактора",
+    "hull_class": "Класс брони",
+    "engine_class": "Класс двигателя",
+    "hyperdrive_class": "Класс гипердвигателя",
+    "deflector": "Дефлектор",
+    "corpuscular_class": "Корпускулярная защита",
+    "ion_class": "Ионная защита",
+    "role": "Назначение",
+    "size": "Размер",
+    "barrel_count": "Стволов",
+    "weapon_count": "Орудий",
+    "module_level": "Уровень",
+    "module_count": "Количество",
+    "room_count": "Помещений",
+    "fighters": "Истребителей",
+    "shuttles": "Шаттлов",
+    "light_vehicles": "Лёгкой техники",
+    "medium_vehicles": "Средней техники",
+    "heavy_vehicles": "Тяжёлой техники"
+  },
+  "sections": {
+    "weapons": "ВООРУЖЕНИЕ",
+    "modules": "МОДУЛИ",
+    "ship_code": "КОД КОРАБЛЯ ДЛЯ ВОССТАНОВЛЕНИЯ"
+  },
+  "specializations": {
+    "STANDARD": "Стандарт",
+    "CARRIER": "Носитель",
+    "SUBSPACE": "Подпространственная субмарина"
+  },
+  "status": {
+    "enabled": "Установлен",
+    "disabled": "Отсутствует",
+    "not_installed": "Не установлено",
+    "not_installed_plural": "Не установлены",
+    "not_applicable": "Не применяется",
+    "unknown": "Нет данных"
+  },
+  "formats": {
+    "dimensions_unit": "м",
+    "component_class": "{value} класс",
+    "hangar_room_load": "В каждом помещении",
+    "weapon_kind_separator": " — ",
+    "document_footer": "Документ сформирован Orion Helper. Строку кода ниже можно вставить в конструктор для восстановления корабля. Файл .ouhf остаётся совместимым.",
+    "items_one": "{value} позиция",
+    "items_few": "{value} позиции",
+    "items_many": "{value} позиций"
+  }
+}
