@@ -1,0 +1,227 @@
+{
+  "schema": 1,
+  "purpose": "Общая классификация планет для галактических и системных карт Orion Helper. Названия и пороги задаются здесь, не в рендерерах.",
+  "temperature_classes": [
+    {
+      "id": "SCORCHING",
+      "name": "Раскалённая",
+      "min_c": 300,
+      "max_c": null,
+      "min_inclusive": false
+    },
+    {
+      "id": "HOT",
+      "name": "Горячая",
+      "min_c": 100,
+      "max_c": 300
+    },
+    {
+      "id": "WARM",
+      "name": "Тёплая",
+      "min_c": 30,
+      "max_c": 100
+    },
+    {
+      "id": "TEMPERATE",
+      "name": "Умеренная",
+      "min_c": 0,
+      "max_c": 30
+    },
+    {
+      "id": "COOL",
+      "name": "Прохладная",
+      "min_c": -50,
+      "max_c": 0
+    },
+    {
+      "id": "COLD",
+      "name": "Холодная",
+      "min_c": -150,
+      "max_c": -50
+    },
+    {
+      "id": "CRYOGENIC",
+      "name": "Криогенная",
+      "min_c": null,
+      "max_c": -150,
+      "max_inclusive": false
+    }
+  ],
+  "surface_classes": [
+    {
+      "id": "AIRLESS",
+      "name": "Безвоздушная",
+      "description": "Атмосферное давление менее 1 нбар"
+    },
+    {
+      "id": "DESERT",
+      "name": "Пустынная",
+      "description": "Есть атмосфера, но отсутствуют поверхностные жидкие водоёмы"
+    },
+    {
+      "id": "LAKE",
+      "name": "Озёрная",
+      "description": "Отдельные жидкие водоёмы"
+    },
+    {
+      "id": "SEA",
+      "name": "Морская",
+      "description": "Обширные моря и значительные участки суши"
+    },
+    {
+      "id": "OCEAN",
+      "name": "Океаническая",
+      "description": "Мировой океан занимает значительную часть поверхности"
+    },
+    {
+      "id": "SUPER_OCEAN",
+      "name": "Суперокеаническая",
+      "description": "Практически вся поверхность покрыта океаном"
+    },
+    {
+      "id": "ECUMENOPOLIS",
+      "name": "Экуменополис",
+      "description": "Поверхность планеты урбанизирована"
+    }
+  ],
+  "composition_classes": [
+    {
+      "id": "FERRIA",
+      "name": "Феррия",
+      "group": "rocky"
+    },
+    {
+      "id": "CARBONIA",
+      "name": "Карбония",
+      "group": "rocky"
+    },
+    {
+      "id": "AQUARIA",
+      "name": "Аквария",
+      "group": "rocky"
+    },
+    {
+      "id": "TERRA",
+      "name": "Терра",
+      "group": "rocky"
+    },
+    {
+      "id": "CHTHONIC",
+      "name": "Хтоническая",
+      "group": "rocky"
+    },
+    {
+      "id": "JUPITER",
+      "name": "Юпитер",
+      "group": "gas_giant"
+    },
+    {
+      "id": "NEPTUNE",
+      "name": "Нептун",
+      "group": "ice_giant"
+    }
+  ],
+  "size_classes": {
+    "rocky": [
+      {
+        "id": "MICRO",
+        "prefix": "микро",
+        "min_diameter_km": 0,
+        "max_diameter_km": 1000
+      },
+      {
+        "id": "MINI",
+        "prefix": "мини",
+        "min_diameter_km": 1000,
+        "max_diameter_km": 2500
+      },
+      {
+        "id": "SUB",
+        "prefix": "суб",
+        "min_diameter_km": 2500,
+        "max_diameter_km": 6000
+      },
+      {
+        "id": "STANDARD",
+        "prefix": "",
+        "min_diameter_km": 6000,
+        "max_diameter_km": 15000
+      },
+      {
+        "id": "SUPER",
+        "prefix": "супер",
+        "min_diameter_km": 15000,
+        "max_diameter_km": 30000
+      },
+      {
+        "id": "MEGA",
+        "prefix": "мега",
+        "min_diameter_km": 30000,
+        "max_diameter_km": null
+      }
+    ],
+    "ice_giant": [
+      {
+        "id": "MINI",
+        "prefix": "мини",
+        "min_diameter_km": 10000,
+        "max_diameter_km": 20000
+      },
+      {
+        "id": "SUB",
+        "prefix": "суб",
+        "min_diameter_km": 20000,
+        "max_diameter_km": 35000
+      },
+      {
+        "id": "STANDARD",
+        "prefix": "",
+        "min_diameter_km": 35000,
+        "max_diameter_km": 60000
+      },
+      {
+        "id": "SUPER",
+        "prefix": "супер",
+        "min_diameter_km": 60000,
+        "max_diameter_km": 100000
+      },
+      {
+        "id": "MEGA",
+        "prefix": "мега",
+        "min_diameter_km": 100000,
+        "max_diameter_km": null
+      }
+    ],
+    "gas_giant": [
+      {
+        "id": "SUB",
+        "prefix": "суб",
+        "min_diameter_km": 30000,
+        "max_diameter_km": 70000
+      },
+      {
+        "id": "STANDARD",
+        "prefix": "",
+        "min_diameter_km": 70000,
+        "max_diameter_km": 120000
+      },
+      {
+        "id": "SUPER",
+        "prefix": "супер",
+        "min_diameter_km": 120000,
+        "max_diameter_km": 200000
+      },
+      {
+        "id": "MEGA",
+        "prefix": "мега",
+        "min_diameter_km": 200000,
+        "max_diameter_km": null
+      }
+    ]
+  },
+  "display_rules": {
+    "temperature_surface_composition_order": true,
+    "size_prefix_attaches_to_composition": true,
+    "custom_classification_allowed": true
+  }
+}
