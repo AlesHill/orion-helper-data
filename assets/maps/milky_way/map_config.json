@@ -174,7 +174,8 @@
           "color": "#75BAFA",
           "alpha": 0.72
         }
-      }
+      },
+      "default_type": "Побочная"
     },
     "route": {
       "color": "#FFBA47",
@@ -195,58 +196,6 @@
     "owner_ring_visible": true,
     "empty_hollow_icon": true,
     "default_color": "#DDD7C9"
-  },
-  "camera_2d": {
-    "min_zoom": 1.0,
-    "max_zoom": 128.0,
-    "focus_zoom": 32.0,
-    "focus_duration_ms": 5000
-  },
-  "labels_2d": {
-    "marker_fade_start": 1.5,
-    "marker_fade_end": 2.0,
-    "label_fade_start": 4.5,
-    "label_fade_end": 6.0,
-    "text_size_px": 40,
-    "text_offset_px": 40,
-    "text_outline_width_px": 10,
-    "visible_margin_px": 300,
-    "marker_visible_margin_px": 100,
-    "text_color": "#FFFFFF",
-    "outline_color": "#000000",
-    "marker_outline_color": "#FFFFFF"
-  },
-  "markers_2d": {
-    "types": {
-      "Первичная": {
-        "size_px": 15,
-        "stroke_width_px": 4
-      },
-      "Вторичная": {
-        "size_px": 10,
-        "stroke_width_px": 4
-      },
-      "Третичная": {
-        "size_px": 7,
-        "stroke_width_px": 2
-      },
-      "Пустой объект": {
-        "size_px": 4,
-        "stroke_width_px": 1
-      }
-    },
-    "empty_marker_filled": false
-  },
-  "magiestrals_2d": {
-    "fade_start": 1.5,
-    "fade_end": 2.0,
-    "widths": {
-      "Главная": 4,
-      "Второстепенная": 3,
-      "Побочная": 2
-    },
-    "default_width": 2.0,
-    "default_type": "Побочная"
   },
   "sector_defaults": {
     "unknown_name": "Без названия"
