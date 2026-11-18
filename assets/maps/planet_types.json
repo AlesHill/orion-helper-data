@@ -1,5 +1,5 @@
 {
-  "schema": 1,
+  "schema": 2,
   "purpose": "Общая классификация планет для галактических и системных карт Orion Helper. Названия и пороги задаются здесь, не в рендерерах.",
   "temperature_classes": [
     {
@@ -222,6 +222,44 @@
   "display_rules": {
     "temperature_surface_composition_order": true,
     "size_prefix_attaches_to_composition": true,
-    "custom_classification_allowed": true
-  }
+    "custom_classification_allowed": true,
+    "atmosphere_for_giants_only": true
+  },
+  "atmosphere_classes": [
+    {
+      "id": "HYDROGEN",
+      "name": "Водородный",
+      "description": "Атмосфера, в которой преобладает водород."
+    },
+    {
+      "id": "HELIUM",
+      "name": "Гелиевый",
+      "description": "Атмосфера, в которой преобладает гелий."
+    },
+    {
+      "id": "METHANE",
+      "name": "Метановый",
+      "description": "Атмосфера с преобладанием метана."
+    },
+    {
+      "id": "WATER",
+      "name": "Водяной",
+      "description": "Атмосфера с преобладанием водяного пара."
+    },
+    {
+      "id": "AMMONIA",
+      "name": "Аммиачный",
+      "description": "Атмосфера с преобладанием аммиака."
+    },
+    {
+      "id": "CARBON",
+      "name": "Углеродсодержащий",
+      "description": "Атмосфера с преобладанием углеродсодержащих газов."
+    },
+    {
+      "id": "MIXED",
+      "name": "Смешанный",
+      "description": "Атмосфера с несколькими значимыми компонентами без выделенного доминирующего газа."
+    }
+  ]
 }

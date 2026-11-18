@@ -13,7 +13,8 @@
       "objects": [
         {
           "type": "MAIN_SEQUENCE_G",
-          "name": "Солнце"
+          "name": "Солнце",
+          "spectral_class": "G2V"
         }
       ]
     }
@@ -10055,11 +10056,13 @@
     "economy": "Отсутствует",
     "corporation_influence": null,
     "central_objects": {
-      "known": false,
+      "known": true,
       "note": "Предварительно: спектральный переход F/G; требуется уточнение.",
       "objects": [
         {
-          "type": "MAIN_SEQUENCE_FG"
+          "type": "MAIN_SEQUENCE_F",
+          "name": "Эльтурин",
+          "spectral_class": "F8.3V"
         }
       ]
     }

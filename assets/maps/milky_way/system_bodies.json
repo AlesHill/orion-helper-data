@@ -1,13 +1,11 @@
 {
-  "schema": 6,
+  "schema": 14,
   "purpose": "Периоды обращения в сутках; большие полуоси по Кеплеру. Визуальный масштаб тел уменьшен в 4 раза в рендерере. Радиус навигационной границы задаётся у каждой системы в boundary.radius_au.",
   "distance_units": "au (derived from period_days)",
   "systems": {
     "5002,6915": {
       "name": "Солнечная система",
-      "star_name": "Солнце",
       "star_draw_radius": 1.48,
-      "star_color": "#ffd891",
       "boundary": {
         "radius_au": 45,
         "stripe_count": 16,
@@ -36,31 +34,29 @@
           "id": "p_0",
           "name": "Меркурий",
           "kind": "rocky",
-          "inclination": 0.035,
           "phase_deg": 195,
           "radius_km": 2440,
-          "display_radius": 0.34,
           "color": "#9c9790",
           "temperature": "+167 °C",
           "classification": {
             "temperature": "HOT",
             "surface": "AIRLESS",
-            "size": "MINI",
+            "size": "SUB",
             "composition": "FERRIA"
           },
           "moons": [],
           "period_days": 87.9354127,
           "orbit_direction": "prograde",
-          "mass_kg": 3.3011e+23
+          "mass_kg": 3.3011e+23,
+          "axial_tilt_deg": 0.034,
+          "inclination_deg": 2.004534
         },
         {
           "id": "p_1",
           "name": "Венера",
           "kind": "rocky",
-          "inclination": 0.02,
           "phase_deg": 300,
           "radius_km": 6052,
-          "display_radius": 0.47,
           "color": "#c5aa83",
           "temperature": "+464 °C",
           "classification": {
@@ -72,16 +68,16 @@
           "moons": [],
           "period_days": 224.545732,
           "orbit_direction": "prograde",
-          "mass_kg": 4.8675e+24
+          "mass_kg": 4.8675e+24,
+          "axial_tilt_deg": 177.4,
+          "inclination_deg": 1.145763
         },
         {
           "id": "earth",
           "name": "Земля",
           "kind": "rocky",
-          "inclination": 0,
           "phase_deg": 130,
           "radius_km": 6378,
-          "display_radius": 0.5,
           "color": "#508caa",
           "temperature": "+15 °C",
           "classification": {
@@ -94,12 +90,15 @@
             {
               "id": "m_2_0",
               "name": "Луна",
-              "display_radius": 0.12,
               "radius_km": 1737,
               "phase_deg": 80,
               "period_days": 27.3217,
               "color": "#a4a6a6",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "SUB"
+              }
             }
           ],
           "period_days": 365.256,
@@ -118,44 +117,50 @@
               "color": "#72b4ce",
               "opacity": 0.77
             }
-          ]
+          ],
+          "axial_tilt_deg": 23.44,
+          "inclination_deg": 0.0
         },
         {
           "id": "mars",
           "name": "Марс",
           "kind": "rocky",
-          "inclination": 0.03,
           "phase_deg": 220,
           "radius_km": 3396,
-          "display_radius": 0.41,
           "color": "#b36e4b",
           "temperature": "РП: 0–30 °C",
           "classification": {
             "temperature": "TEMPERATE",
             "surface": "OCEAN",
-            "size": "SUB",
+            "size": "STANDARD",
             "composition": "TERRA"
           },
           "moons": [
             {
               "id": "m_3_0",
               "name": "Фобос",
-              "display_radius": 0.06,
               "radius_km": 11,
               "phase_deg": 30,
               "period_days": 0.3189,
               "color": "#a09a92",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MICRO"
+              }
             },
             {
               "id": "m_3_1",
               "name": "Деймос",
-              "display_radius": 0.05,
               "radius_km": 6,
               "phase_deg": 210,
               "period_days": 1.263,
               "color": "#8b857d",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MICRO"
+              }
             }
           ],
           "period_days": 687.186801,
@@ -174,320 +179,448 @@
               "color": "#72b4ce",
               "opacity": 0.77
             }
-          ]
+          ],
+          "axial_tilt_deg": 25.19,
+          "inclination_deg": 1.718358
         },
         {
           "id": "p_4",
           "name": "Церера",
           "kind": "dwarf",
-          "inclination": 0.04,
           "phase_deg": 28,
           "radius_km": 473,
-          "display_radius": 0.18,
           "color": "#8f978f",
           "temperature": "около −105 °C",
           "classification": {
             "temperature": "COLD",
             "surface": "AIRLESS",
-            "size": "MINI",
+            "size": "MICRO",
             "composition": "TERRA"
           },
           "moons": [],
           "period_days": 1683.9027739,
           "orbit_direction": "prograde",
-          "mass_kg": 9.3835e+20
+          "mass_kg": 938350000000000000000,
+          "axial_tilt_deg": 4.0,
+          "inclination_deg": 2.29061
         },
         {
           "id": "p_5",
           "name": "Юпитер",
           "kind": "gas_giant",
-          "inclination": 0.012,
           "phase_deg": 305,
           "radius_km": 71492,
-          "display_radius": 1.15,
           "color": "#c49c76",
           "temperature": "около −145 °C",
           "classification": {
             "temperature": "COLD",
             "surface": null,
-            "size": "STANDARD",
-            "composition": "JUPITER"
+            "size": "SUPER",
+            "composition": "JUPITER",
+            "atmosphere": "HYDROGEN"
           },
           "moons": [
             {
               "id": "m_5_0",
               "name": "Ио",
-              "display_radius": 0.1,
               "radius_km": 1822,
               "phase_deg": 30,
               "period_days": 1.769,
               "color": "#dfc67c",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "SUB"
+              }
             },
             {
               "id": "m_5_1",
               "name": "Европа",
-              "display_radius": 0.09,
               "radius_km": 1561,
               "phase_deg": 140,
               "period_days": 3.551,
               "color": "#a1b8ac",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "SUB"
+              }
             },
             {
               "id": "m_5_2",
               "name": "Ганимед",
-              "display_radius": 0.12,
               "radius_km": 2634,
               "phase_deg": 250,
               "period_days": 7.155,
               "color": "#9e9186",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "SUB"
+              }
             },
             {
               "id": "m_5_3",
               "name": "Каллисто",
-              "display_radius": 0.11,
               "radius_km": 2410,
               "phase_deg": 350,
               "period_days": 16.689,
               "color": "#7f776f",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "SUB"
+              }
             }
           ],
           "period_days": 4334.8901605,
           "orbit_direction": "prograde",
-          "mass_kg": 1.8982e+27
+          "mass_kg": 1.8982e+27,
+          "axial_tilt_deg": 3.13,
+          "rings": [
+            {
+              "name": "Гало Юпитера",
+              "inner_multiplier": 1.25,
+              "outer_multiplier": 1.72,
+              "color": "#a6a7a2",
+              "opacity": 0.04,
+              "particles": 180
+            },
+            {
+              "name": "Главное кольцо Юпитера",
+              "inner_multiplier": 1.72,
+              "outer_multiplier": 1.8,
+              "color": "#c6bca9",
+              "opacity": 0.18,
+              "particles": 650
+            },
+            {
+              "name": "Паутинные кольца Юпитера",
+              "inner_multiplier": 1.81,
+              "outer_multiplier": 3.1,
+              "color": "#a3a1a0",
+              "opacity": 0.022,
+              "particles": 250
+            }
+          ],
+          "inclination_deg": 0.687516
         },
         {
           "id": "p_6",
           "name": "Сатурн",
           "kind": "gas_giant",
-          "inclination": 0.015,
           "phase_deg": 80,
           "radius_km": 60268,
-          "display_radius": 0.98,
           "color": "#c7b68c",
           "temperature": "около −178 °C",
           "classification": {
             "temperature": "CRYOGENIC",
             "surface": null,
-            "size": "SUB",
-            "composition": "JUPITER"
+            "size": "SUPER",
+            "composition": "JUPITER",
+            "atmosphere": "HYDROGEN"
           },
           "moons": [
             {
               "id": "m_6_0",
               "name": "Мимас",
-              "display_radius": 0.05,
               "radius_km": 198,
               "phase_deg": 70,
               "period_days": 0.942,
               "color": "#9c9e9c",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MICRO"
+              }
             },
             {
               "id": "m_6_1",
               "name": "Энцелад",
-              "display_radius": 0.06,
               "radius_km": 252,
               "phase_deg": 180,
               "period_days": 1.37,
               "color": "#d3dcde",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MICRO"
+              }
             },
             {
               "id": "m_6_2",
               "name": "Тефия",
-              "display_radius": 0.06,
               "radius_km": 531,
               "phase_deg": 260,
               "period_days": 1.888,
               "color": "#bbc3be",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI"
+              }
             },
             {
               "id": "m_6_3",
               "name": "Диона",
-              "display_radius": 0.06,
               "radius_km": 561,
               "phase_deg": 20,
               "period_days": 2.736,
               "color": "#afb1a7",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI"
+              }
             },
             {
               "id": "m_6_4",
               "name": "Рея",
-              "display_radius": 0.07,
               "radius_km": 764,
               "phase_deg": 310,
               "period_days": 4.518,
               "color": "#a5a49e",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI"
+              }
             },
             {
               "id": "m_6_5",
               "name": "Титан",
-              "display_radius": 0.1,
               "radius_km": 2575,
               "phase_deg": 120,
               "period_days": 15.945,
               "color": "#c6a475",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "SUB"
+              }
             },
             {
               "id": "m_6_6",
               "name": "Япет",
-              "display_radius": 0.06,
               "radius_km": 735,
               "phase_deg": 220,
               "period_days": 79.321,
               "color": "#85817b",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI"
+              }
             }
           ],
-          "ring": {
-            "inner_multiplier": 1.32,
-            "outer_multiplier": 2.12,
-            "tilt": 0.25
-          },
           "period_days": 10757.5911033,
           "orbit_direction": "prograde",
-          "mass_kg": 5.6834e+26
+          "mass_kg": 5.6834e+26,
+          "axial_tilt_deg": 26.73,
+          "rings": [
+            {
+              "name": "Основные кольца Сатурна",
+              "inner_multiplier": 1.32,
+              "outer_multiplier": 2.12,
+              "color": "#bfc2b7",
+              "opacity": 0.27,
+              "particles": 950
+            }
+          ],
+          "inclination_deg": 0.859372
         },
         {
           "id": "p_7",
           "name": "Уран",
           "kind": "ice_giant",
-          "inclination": 0.02,
           "phase_deg": 154,
           "radius_km": 25559,
-          "display_radius": 0.83,
           "color": "#86babe",
           "temperature": "около −195 °C",
           "classification": {
             "temperature": "CRYOGENIC",
             "surface": null,
-            "size": "SUB",
-            "composition": "NEPTUNE"
+            "size": "STANDARD",
+            "composition": "NEPTUNE",
+            "atmosphere": "METHANE"
           },
           "moons": [
             {
               "id": "m_7_0",
               "name": "Миранда",
-              "display_radius": 0.05,
               "radius_km": 236,
               "phase_deg": 40,
               "period_days": 1.413,
               "color": "#abb3b1",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MICRO"
+              }
             },
             {
               "id": "m_7_1",
               "name": "Ариэль",
-              "display_radius": 0.06,
               "radius_km": 579,
               "phase_deg": 115,
               "period_days": 2.52,
               "color": "#bdc0c0",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI"
+              }
             },
             {
               "id": "m_7_2",
               "name": "Умбриэль",
-              "display_radius": 0.06,
               "radius_km": 585,
               "phase_deg": 250,
               "period_days": 4.144,
               "color": "#92979a",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI"
+              }
             },
             {
               "id": "m_7_3",
               "name": "Титания",
-              "display_radius": 0.08,
               "radius_km": 789,
               "phase_deg": 305,
               "period_days": 8.706,
               "color": "#aaa99f",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI"
+              }
             },
             {
               "id": "m_7_4",
               "name": "Оберон",
-              "display_radius": 0.07,
               "radius_km": 761,
               "phase_deg": 10,
               "period_days": 13.463,
               "color": "#95938d",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI"
+              }
             }
           ],
           "period_days": 30707.4509568,
           "orbit_direction": "prograde",
-          "mass_kg": 8.681e+25
+          "mass_kg": 8.681e+25,
+          "axial_tilt_deg": 97.77,
+          "rings": [
+            {
+              "name": "Основная группа колец Урана",
+              "inner_multiplier": 1.75,
+              "outer_multiplier": 1.93,
+              "color": "#9eaaab",
+              "opacity": 0.16,
+              "particles": 360
+            },
+            {
+              "name": "Кольцо Эпсилон Урана",
+              "inner_multiplier": 1.975,
+              "outer_multiplier": 2.025,
+              "color": "#bac5c8",
+              "opacity": 0.32,
+              "particles": 460
+            }
+          ],
+          "inclination_deg": 1.145763
         },
         {
           "id": "p_8",
           "name": "Нептун",
           "kind": "ice_giant",
-          "inclination": 0.018,
           "phase_deg": 350,
           "radius_km": 24764,
-          "display_radius": 0.83,
           "color": "#5276ad",
           "temperature": "около −200 °C",
           "classification": {
             "temperature": "CRYOGENIC",
             "surface": null,
-            "size": "SUB",
-            "composition": "NEPTUNE"
+            "size": "STANDARD",
+            "composition": "NEPTUNE",
+            "atmosphere": "METHANE"
           },
           "moons": [
             {
               "id": "m_8_0",
               "name": "Протей",
-              "display_radius": 0.05,
               "radius_km": 210,
               "phase_deg": 90,
               "period_days": 1.122,
               "color": "#8e9ca4",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MICRO"
+              }
             },
             {
               "id": "m_8_1",
               "name": "Тритон",
-              "display_radius": 0.08,
               "radius_km": 1353,
               "phase_deg": 220,
               "period_days": 5.877,
               "color": "#c3b2a9",
-              "orbit_direction": "retrograde"
+              "orbit_direction": "retrograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "SUB"
+              }
             },
             {
               "id": "m_8_2",
               "name": "Нереида",
-              "display_radius": 0.05,
               "radius_km": 170,
               "phase_deg": 330,
               "period_days": 360.1,
               "color": "#a3a7aa",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MICRO"
+              }
             }
           ],
           "period_days": 60227.8695257,
           "orbit_direction": "prograde",
-          "mass_kg": 1.02413e+26
+          "mass_kg": 1.02413e+26,
+          "axial_tilt_deg": 28.32,
+          "rings": [
+            {
+              "name": "Кольцо Леверье Нептуна",
+              "inner_multiplier": 2.115,
+              "outer_multiplier": 2.18,
+              "color": "#8d9aaa",
+              "opacity": 0.17,
+              "particles": 220
+            },
+            {
+              "name": "Кольцо Адамса Нептуна",
+              "inner_multiplier": 2.505,
+              "outer_multiplier": 2.57,
+              "color": "#9fb0bd",
+              "opacity": 0.22,
+              "particles": 280
+            }
+          ],
+          "inclination_deg": 1.031213
         },
         {
           "id": "pluto",
           "name": "Плутон",
           "kind": "dwarf",
-          "inclination": 0.16,
           "phase_deg": 238,
           "radius_km": 1188,
-          "display_radius": 0.2,
           "color": "#9a8f84",
           "temperature": "около −229 °C",
           "classification": {
@@ -500,12 +633,15 @@
             {
               "id": "charon",
               "name": "Харон",
-              "display_radius": 0.09,
               "radius_km": 606,
               "phase_deg": 35,
               "period_days": 6.387,
               "color": "#b4aca2",
-              "orbit_direction": "prograde"
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI"
+              }
             }
           ],
           "binary": {
@@ -518,10 +654,295 @@
           },
           "period_days": 90607.2761442,
           "orbit_direction": "prograde",
-          "mass_kg": 1.303e+22
+          "mass_kg": 1.303e+22,
+          "axial_tilt_deg": 119.5,
+          "inclination_deg": 9.090277
         }
       ],
-      "central_mass_solar": 1.0
+      "central_mass_solar": 1
+    },
+    "5707,6265": {
+      "name": "Система Эльтурин",
+      "star_draw_radius": 1.48,
+      "central_mass_solar": 1.3,
+      "boundary": {
+        "radius_au": 30,
+        "stripe_count": 16,
+        "opacity": 0.36,
+        "band_width_au": 0.5,
+        "navigation_boundary": true
+      },
+      "belts": [
+        {
+          "name": "Пояс Мертуана",
+          "inner_au": 3,
+          "outer_au": 5.5,
+          "points": 300,
+          "seed": 359985
+        },
+        {
+          "name": "Внешний Пояс",
+          "inner_au": 20,
+          "outer_au": 29,
+          "points": 300,
+          "seed": 349245
+        }
+      ],
+      "bodies": [
+        {
+          "id": "body_zjd1wz",
+          "name": "Гистор",
+          "kind": "rocky",
+          "period_days": 52.63899205160781,
+          "orbit_direction": "prograde",
+          "phase_deg": 154,
+          "radius_km": 2000,
+          "color": "#707070",
+          "temperature": "",
+          "classification": {
+            "temperature": "HOT",
+            "surface": "AIRLESS",
+            "size": "SUB",
+            "composition": "FERRIA"
+          },
+          "moons": [],
+          "mass_kg": 2.3122121930420875e+23,
+          "orbit_center_id": "star_o6jyk3",
+          "axial_tilt_deg": -1,
+          "inclination_deg": 1.203035
+        },
+        {
+          "id": "body_frez40",
+          "name": "Тирес",
+          "kind": "rocky",
+          "period_days": 106.53382951589137,
+          "orbit_direction": "prograde",
+          "phase_deg": 68,
+          "radius_km": 5860,
+          "color": "#70705c",
+          "temperature": "",
+          "classification": {
+            "temperature": "HOT",
+            "surface": "DESERT",
+            "size": "STANDARD",
+            "composition": "TERRA"
+          },
+          "moons": [],
+          "mass_kg": 4.976282763286233e+24,
+          "orbit_center_id": "star_o6jyk3",
+          "axial_tilt_deg": -16,
+          "inclination_deg": 0.572939
+        },
+        {
+          "id": "body_ebsx65",
+          "name": "Альтерос",
+          "kind": "rocky",
+          "period_days": 220.68234319596442,
+          "orbit_direction": "prograde",
+          "phase_deg": -68,
+          "radius_km": 6500,
+          "color": "#9b9487",
+          "temperature": "",
+          "classification": {
+            "temperature": "WARM",
+            "surface": "DESERT",
+            "size": "STANDARD",
+            "composition": "TERRA"
+          },
+          "moons": [
+            {
+              "id": "moon_fahuts",
+              "name": "Мальтея",
+              "radius_km": 360,
+              "period_days": 30,
+              "phase_deg": -58,
+              "color": "#9daeb2",
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MICRO",
+                "temperature": "WARM",
+                "surface": "AIRLESS",
+                "composition": "FERRIA"
+              }
+            }
+          ],
+          "mass_kg": 4.976282763286233e+24,
+          "orbit_center_id": "star_o6jyk3",
+          "axial_tilt_deg": 35,
+          "rings": [],
+          "inclination_deg": 0.0
+        },
+        {
+          "id": "body_ydvetg",
+          "name": "Эйдем",
+          "kind": "rocky",
+          "period_days": 394.5533413396334,
+          "orbit_direction": "prograde",
+          "phase_deg": 0,
+          "radius_km": 5397,
+          "color": "#429e76",
+          "temperature": "",
+          "classification": {
+            "temperature": "WARM",
+            "surface": "LAKE",
+            "size": "STANDARD",
+            "composition": "TERRA"
+          },
+          "moons": [
+            {
+              "id": "moon_sp118g",
+              "name": "Доион",
+              "radius_km": 580,
+              "period_days": 23,
+              "phase_deg": 100,
+              "color": "#bababa",
+              "orbit_direction": "prograde",
+              "kind": "rocky",
+              "classification": {
+                "size": "MINI",
+                "temperature": "TEMPERATE",
+                "surface": "AIRLESS",
+                "composition": "TERRA"
+              }
+            }
+          ],
+          "mass_kg": 4.976282763286233e+24,
+          "orbit_center_id": "star_o6jyk3",
+          "axial_tilt_deg": 14,
+          "inclination_deg": 0.0
+        },
+        {
+          "id": "body_rfzg5i",
+          "name": "Мерту",
+          "kind": "gas",
+          "period_days": 5932.978063907379,
+          "orbit_direction": "prograde",
+          "phase_deg": -99,
+          "radius_km": 65000,
+          "color": "#ab5f21",
+          "temperature": "",
+          "classification": {
+            "temperature": "COOL",
+            "surface": "AIRLESS",
+            "size": "SUPER",
+            "composition": "JUPITER",
+            "atmosphere": "METHANE"
+          },
+          "moons": [
+            {
+              "id": "moon_0n60l5",
+              "name": "Гитея",
+              "kind": "rocky",
+              "radius_km": 650,
+              "period_days": 3,
+              "phase_deg": -111,
+              "color": "#9daeb2",
+              "orbit_direction": "prograde",
+              "classification": {
+                "size": "MINI",
+                "temperature": "CRYOGENIC",
+                "surface": "SEA",
+                "composition": "TERRA"
+              }
+            },
+            {
+              "id": "moon_4ibewm",
+              "name": "Малогрона",
+              "kind": "rocky",
+              "radius_km": 890,
+              "period_days": 12,
+              "phase_deg": 104,
+              "color": "#9daeb2",
+              "orbit_direction": "prograde",
+              "classification": {
+                "size": "MINI",
+                "temperature": "CRYOGENIC",
+                "surface": "AIRLESS",
+                "composition": "FERRIA"
+              }
+            },
+            {
+              "id": "moon_8o7wq9",
+              "name": "Логусо",
+              "kind": "rocky",
+              "radius_km": 540,
+              "period_days": 21,
+              "phase_deg": 14,
+              "color": "#9daeb2",
+              "orbit_direction": "prograde",
+              "classification": {
+                "size": "MINI",
+                "surface": "OCEAN",
+                "temperature": "COLD",
+                "composition": "AQUARIA"
+              }
+            }
+          ],
+          "mass_kg": 1.5529677884857744e+27,
+          "orbit_center_id": "star_o6jyk3",
+          "axial_tilt_deg": 10,
+          "inclination_deg": -0.859372
+        },
+        {
+          "id": "body_jcptkw",
+          "name": "Сейло",
+          "kind": "ice",
+          "period_days": 24650.945780151305,
+          "orbit_direction": "prograde",
+          "phase_deg": -44,
+          "radius_km": 25000,
+          "color": "#5cbff5",
+          "temperature": "",
+          "classification": {
+            "temperature": "COLD",
+            "surface": "AIRLESS",
+            "size": "STANDARD",
+            "composition": "NEPTUNE",
+            "atmosphere": "AMMONIA"
+          },
+          "moons": [],
+          "mass_kg": 1.0799224746714913e+26,
+          "orbit_center_id": "star_o6jyk3",
+          "axial_tilt_deg": 22,
+          "inclination_deg": 1.145763
+        },
+        {
+          "id": "body_5krqm9",
+          "name": "Туроно",
+          "kind": "dwarf",
+          "period_days": 39672.00812400596,
+          "orbit_direction": "prograde",
+          "phase_deg": 108,
+          "radius_km": 680,
+          "color": "#5a868c",
+          "temperature": "",
+          "classification": {
+            "temperature": "CRYOGENIC",
+            "surface": "AIRLESS",
+            "size": "MINI",
+            "composition": "TERRA"
+          },
+          "moons": [],
+          "mass_kg": 4.976282763286233e+24,
+          "orbit_center_id": "star_o6jyk3",
+          "axial_tilt_deg": 57,
+          "inclination_deg": 21.801409
+        }
+      ],
+      "stellar_structure": {
+        "version": 1,
+        "root_id": "star_o6jyk3",
+        "nodes": [
+          {
+            "id": "star_o6jyk3",
+            "kind": "star",
+            "marker_star_index": 0,
+            "mass_solar": 1.3,
+            "radius_km": 696340
+          }
+        ]
+      }
     }
   },
   "time_units": "earth_days"

@@ -1,5 +1,5 @@
 {
-  "schema": 1,
+  "schema": 2,
   "purpose": "Общий каталог центральных объектов для всех звёздных карт Orion Helper.",
   "default": "AVERAGE",
   "classes": {
@@ -48,14 +48,6 @@
       "color": "#fff5d4",
       "size": 1.12,
       "glow": 1.14,
-      "render": "star",
-      "renderCode": 1
-    },
-    "MAIN_SEQUENCE_FG": {
-      "title": "Переходная область F/G",
-      "color": "#fff0b8",
-      "size": 1.11,
-      "glow": 1.13,
       "render": "star",
       "renderCode": 1
     },
