@@ -10057,7 +10057,6 @@
     "corporation_influence": null,
     "central_objects": {
       "known": true,
-      "note": "Предварительно: спектральный переход F/G; требуется уточнение.",
       "objects": [
         {
           "type": "MAIN_SEQUENCE_F",
